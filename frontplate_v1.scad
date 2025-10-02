@@ -2,17 +2,20 @@ use <./parts.scad>
 base_thickness=2;
 
 module connector() {
+    translate([0, -.3, 0])
     difference() {
         union() {
-            cube([35, 47, base_thickness], center = false);
+            width = 47.6;
+            cube([35, width, base_thickness], center = false);
 
+            smallWidth = 8.3;
             translate([0, 0, base_thickness]) {
-                cube([35, 8.5, 2], center = false);
+                cube([35, smallWidth, 2], center = false);
 
-                translate([0, 47 - 8.5, 0])
-                    cube([35, 8.5, 2], center = false);
+                translate([0, width - smallWidth, 0])
+                    cube([35, smallWidth, 2], center = false);
 
-                translate([35 / 2 - 14 / 2, 47 / 2 - 14 / 2, 0])
+                translate([35 / 2 - 14 / 2, width / 2 - 14 / 2, 0])
                     cube([14, 14, 2], center = false);
             }
         }
@@ -58,8 +61,8 @@ module ring() {
     difference() {
         cube([70.6, 70.6, 5], center = false);
 
-        translate([70.6 / 2, 70.6 / 2, -2])
-            cylinder(d = 60.2, h = 8, center = false, $fn = 200);
+        translate([70.6 / 2, 70.6 / 2, -4])
+            cylinder(d = 60.3, h = 5, center = false, $fn = 200);
     }
 }
 
@@ -75,8 +78,8 @@ union() {
                 ring();
         }
 
-        translate([70.6 / 2, 70.6 / 2, -6])
-            cylinder(d = 60.2, h = 8, center = false, $fn = 100);
+        translate([70.6 / 2, 70.6 / 2, -4])
+            cylinder(d = 60.8, h = 6, center = false, $fn = 100);
 
         translate([76.6 / 2 - 3, 76.6 / 2 - 3, -20]) {
             cylinder(d = 3, h = 50, center = false, $fn = 100);
@@ -87,13 +90,23 @@ union() {
         }
 
         // Cut out opening gap
-        translate([70.6 / 2 - 7/2,70.6-3-4,-10])
-            cube([7, 3, 20], center = false);
+        //translate([70.6 / 2 - 7/2,70.6-3-4,-10])
+        //    cube([7, 3, 20], center = false);
+
+
+        // Magents
+        translate([49.7-1.5,14.6+.5,2+.5])
+            cylinder(d = 6.1, h = 20, center = false, $fn = 100);
+
+        translate([20.9 + 1.5,56 - .5,2+.5])
+            cylinder(d = 6.1, h = 20, center = false, $fn = 100);
     }
 
     translate([70.6/2 - 1.7/2,5.1+8,1])
         linear_extrude(height=1)
             rounded_rectangle(1.7, 3.5, 0.5);
+
+
 
 }
 

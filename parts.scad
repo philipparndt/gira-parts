@@ -1,11 +1,14 @@
 
 Mtolerance = 0.1;
 M5size = 7.8;
-M2_5size = 4.9;
 
 function M5() = M5size + Mtolerance;
 
-function M2_5() = M2_5size + Mtolerance;
+// Fits a standard M2.5 nut when printed with PLA the nut does not fall out
+function M2_5_Pla() = 4.95 + Mtolerance;
+
+// Fits a standard M2.5 nut. The nut falls out. Ideal for metal printing
+function M2_5() = 5.05 + Mtolerance;
 
 module hexHole(flatToFlatDistance, depth) {
     previewOptimize = 0.1;
@@ -26,12 +29,12 @@ module hexHole(flatToFlatDistance, depth) {
 }
 
 // Rounded rectangle module
-module rounded_rectangle(width, height, r, fn=64) {
+module rounded_rectangle(width, length, r, fn=64) {
     // ensure radius doesn't exceed half of width/height
-    rr = min(r, width/2, height/2);
+    rr = min(r, width/2, length/2);
 
     translate([rr, rr])
         offset(r=rr, $fn=fn)
-            square([width - 2*rr, height - 2*rr]);
+            square([width - 2*rr, length - 2*rr]);
 
 }
