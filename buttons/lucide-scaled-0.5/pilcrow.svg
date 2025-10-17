@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   stroke="currentColor"
+   stroke-width="0.5"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname=".tmp_pilcrow.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <path
+     id="path1"
+     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#000000;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 9.5 3.75 C 7.9375006 3.75 6.7333179 4.3449389 5.9375 5.2402344 C 5.1416821 6.1355299 4.75 7.3194445 4.75 8.5 C 4.75 9.6805555 5.1416821 10.86447 5.9375 11.759766 C 6.7333179 12.655061 7.9375006 13.25 9.5 13.25 L 12.75 13.25 L 12.75 20 A 0.25 0.25 0 0 0 13 20.25 A 0.25 0.25 0 0 0 13.25 20 L 13.25 13 L 13.25 4.25 L 16.75 4.25 L 16.75 20 A 0.25 0.25 0 0 0 17 20.25 A 0.25 0.25 0 0 0 17.25 20 L 17.25 4.25 L 19 4.25 A 0.25 0.25 0 0 0 19.25 4 A 0.25 0.25 0 0 0 19 3.75 L 17 3.75 L 13 3.75 L 9.5 3.75 z M 9.5 4.25 L 12.75 4.25 L 12.75 12.75 L 9.5 12.75 C 8.0625007 12.75 7.0166815 12.219939 6.3125 11.427734 C 5.6083185 10.63553 5.25 9.5694445 5.25 8.5 C 5.25 7.4305555 5.6083185 6.3644701 6.3125 5.5722656 C 7.0166815 4.7800611 8.0625007 4.25 9.5 4.25 z " />
+</svg>

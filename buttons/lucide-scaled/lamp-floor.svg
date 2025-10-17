@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   stroke="currentColor"
+   stroke-width="1"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname=".tmp_lamp-floor.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <path
+     id="path1"
+     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#000000;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 9 1.5 C 8.3882688 1.5003872 7.8343741 1.8752855 7.6074219 2.4433594 L 5.6074219 7.4433594 C 5.220285 8.4123831 5.9565052 9.4993397 7 9.5 L 12 9.5 L 17 9.5 C 18.044093 9.5003834 18.779937 8.4129386 18.392578 7.4433594 L 16.392578 2.4433594 C 16.165626 1.8752855 15.611731 1.5003872 15 1.5 L 9 1.5 z M 12 9.5 A 0.5 0.5 0 0 0 11.5 10 L 11.5 21.5 L 9 21.5 A 0.5 0.5 0 0 0 8.5 22 A 0.5 0.5 0 0 0 9 22.5 L 12 22.5 L 15 22.5 A 0.5 0.5 0 0 0 15.5 22 A 0.5 0.5 0 0 0 15 21.5 L 12.5 21.5 L 12.5 10 A 0.5 0.5 0 0 0 12 9.5 z M 9 2.5 L 15 2.5 C 15.205923 2.5001303 15.386493 2.623226 15.462891 2.8144531 L 17.464844 7.8144531 C 17.602407 8.1587812 17.37079 8.5001361 17 8.5 L 7 8.5 C 6.6294657 8.4997655 6.399641 8.1585435 6.5371094 7.8144531 L 8.5371094 2.8144531 C 8.6135069 2.623226 8.7940768 2.5001303 9 2.5 z " />
+</svg>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   stroke="currentColor"
+   stroke-width="0.5"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname=".tmp_factory.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <path
+     id="path1"
+     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#000000;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 5 2.75 C 3.7603205 2.75 2.75 3.7603205 2.75 5 L 2.75 19 C 2.75 20.23968 3.7603205 21.25 5 21.25 L 19 21.25 C 20.23968 21.25 21.25 20.23968 21.25 19 L 21.25 8.5 C 21.250611 7.9207212 20.584003 7.555535 20.095703 7.8671875 L 15.634766 10.710938 C 15.457 10.824395 15.249777 10.710887 15.25 10.5 L 15.25 8.5 C 15.250611 7.9207212 14.584003 7.555535 14.095703 7.8671875 L 9.6347656 10.710938 C 9.4568298 10.825098 9.249506 10.711409 9.25 10.5 L 9.25 5 C 9.25 3.7603205 8.2396795 2.75 7 2.75 L 5 2.75 z M 5 3.25 L 7 3.25 C 7.9694595 3.25 8.75 4.0305405 8.75 5 L 8.75 10.5 C 8.74864 11.080403 9.4157913 11.446233 9.9042969 11.132812 L 14.365234 8.2890625 C 14.543 8.1756051 14.750223 8.2891131 14.75 8.5 L 14.75 10.5 C 14.749389 11.079279 15.415997 11.444465 15.904297 11.132812 L 20.365234 8.2890625 C 20.543 8.1756051 20.750223 8.2891131 20.75 8.5 L 20.75 19 C 20.75 19.969459 19.969459 20.75 19 20.75 L 5 20.75 C 4.0305405 20.75 3.25 19.969459 3.25 19 L 3.25 5 C 3.25 4.0305405 4.0305405 3.25 5 3.25 z M 8 15.75 A 0.25 0.25 0 0 0 7.75 16 A 0.25 0.25 0 0 0 8 16.25 L 8.0097656 16.25 A 0.25 0.25 0 0 0 8.2597656 16 A 0.25 0.25 0 0 0 8.0097656 15.75 L 8 15.75 z M 12 15.75 A 0.25 0.25 0 0 0 11.75 16 A 0.25 0.25 0 0 0 12 16.25 L 12.009766 16.25 A 0.25 0.25 0 0 0 12.259766 16 A 0.25 0.25 0 0 0 12.009766 15.75 L 12 15.75 z M 16 15.75 A 0.25 0.25 0 0 0 15.75 16 A 0.25 0.25 0 0 0 16 16.25 L 16.009766 16.25 A 0.25 0.25 0 0 0 16.259766 16 A 0.25 0.25 0 0 0 16.009766 15.75 L 16 15.75 z " />
+</svg>

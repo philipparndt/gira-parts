@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   stroke="currentColor"
+   stroke-width="0.8"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   version="1.1"
+   id="svg2"
+   sodipodi:docname=".tmp_glass-water.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <path
+     id="path1"
+     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#000000;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 6.109375 2.5996094 C 5.2853792 2.6000851 4.6330543 3.3269567 4.71875 4.1464844 L 6.4023438 20.251953 C 6.5313631 21.474096 7.5720655 22.40619 8.8007812 22.400391 L 15.199219 22.400391 C 16.424256 22.401037 17.459262 21.470218 17.587891 20.251953 L 19.28125 4.1464844 C 19.36783 3.3264467 18.715221 2.5999988 17.890625 2.5996094 L 6.109375 2.5996094 z M 6.109375 3.4003906 L 17.890625 3.4003906 C 18.253307 3.4005619 18.52441 3.7018225 18.486328 4.0625 L 17.679688 11.738281 C 16.050194 12.906625 13.850527 12.887407 12.240234 11.679688 C 11.280943 10.960221 10.140356 10.601562 9 10.601562 C 8.0573887 10.601562 7.113842 10.846564 6.2734375 11.337891 L 5.5136719 4.0625 C 5.4759827 3.70207 5.7469799 3.4005998 6.109375 3.4003906 z M 9.0742188 11.400391 C 10.019881 11.415722 10.962256 11.72218 11.759766 12.320312 C 13.464314 13.598724 15.740084 13.741229 17.572266 12.748047 L 16.792969 20.167969 C 16.706629 20.985743 16.023492 21.600043 15.201172 21.599609 A 0.40004001 0.40004001 0 0 0 15.199219 21.599609 L 8.8007812 21.599609 A 0.40004001 0.40004001 0 0 0 8.796875 21.599609 C 7.9714409 21.604209 7.2839249 20.988854 7.1972656 20.167969 L 6.3671875 12.228516 C 7.1795071 11.661045 8.1285568 11.385059 9.0742188 11.400391 z " />
+</svg>

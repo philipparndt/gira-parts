@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   stroke="currentColor"
+   stroke-width="0.75"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname=".tmp_cooking-pot.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <path
+     id="path1"
+     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#000000;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 12.185547 1.6269531 C 12.027715 1.6337969 11.867949 1.6572413 11.708984 1.6972656 L 11.708984 1.6953125 L 9.7695312 2.1757812 A 0.3750375 0.3750375 0 0 0 9.7675781 2.1757812 C 8.499176 2.4955261 7.7259571 3.7943974 8.046875 5.0625 L 8.40625 6.5117188 L 3.9082031 7.6367188 A 0.375 0.375 0 0 0 3.6367188 8.0917969 A 0.375 0.375 0 0 0 4.0917969 8.3632812 L 20.091797 4.3632812 A 0.375 0.375 0 0 0 20.363281 3.9082031 A 0.375 0.375 0 0 0 19.908203 3.6367188 L 14.955078 4.875 L 14.59375 3.4296875 C 14.31866 2.3156707 13.290367 1.5790468 12.185547 1.6269531 z M 12.21875 2.375 C 12.978035 2.3400654 13.675423 2.8407071 13.865234 3.609375 A 0.3750375 0.3750375 0 0 0 13.865234 3.6113281 L 14.228516 5.0566406 L 9.1347656 6.3300781 L 8.7734375 4.8789062 C 8.5521611 4.0045359 9.0750864 3.1255941 9.9492188 2.9042969 L 11.890625 2.4238281 C 12.00031 2.3962115 12.110281 2.3799907 12.21875 2.375 z M 2 11.625 A 0.375 0.375 0 0 0 1.625 12 A 0.375 0.375 0 0 0 2 12.375 L 3.625 12.375 L 3.625 20 C 3.625 21.307235 4.6927655 22.375 6 22.375 L 18 22.375 C 19.307235 22.375 20.375 21.307235 20.375 20 L 20.375 12.375 L 22 12.375 A 0.375 0.375 0 0 0 22.375 12 A 0.375 0.375 0 0 0 22 11.625 L 2 11.625 z M 4.375 12.375 L 19.625 12.375 L 19.625 20 C 19.625 20.901904 18.901904 21.625 18 21.625 L 6 21.625 C 5.0980955 21.625 4.375 20.901904 4.375 20 L 4.375 12.375 z " />
+</svg>

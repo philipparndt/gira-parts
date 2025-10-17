@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   stroke="currentColor"
+   stroke-width="1"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname=".tmp_square-user.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <path
+     id="rect1"
+     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#000000;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 5 2.5 C 3.6236486 2.5 2.5 3.6236486 2.5 5 L 2.5 19 C 2.5 20.376351 3.6236486 21.5 5 21.5 L 7 21.5 L 17 21.5 L 19 21.5 C 20.376351 21.5 21.5 20.376351 21.5 19 L 21.5 5 C 21.5 3.6236486 20.376351 2.5 19 2.5 L 5 2.5 z M 5 3.5 L 19 3.5 C 19.839649 3.5 20.5 4.1603514 20.5 5 L 20.5 19 C 20.5 19.839649 19.839649 20.5 19 20.5 L 17.5 20.5 L 17.5 19 C 17.5 17.62521 16.37479 16.5 15 16.5 L 9 16.5 C 7.6252104 16.5 6.5 17.62521 6.5 19 L 6.5 20.5 L 5 20.5 C 4.1603514 20.5 3.5 19.839649 3.5 19 L 3.5 5 C 3.5 4.1603514 4.1603514 3.5 5 3.5 z M 12 6.5 C 10.072926 6.5 8.5 8.0729257 8.5 10 C 8.5 11.927074 10.072926 13.5 12 13.5 C 13.927074 13.5 15.5 11.927074 15.5 10 C 15.5 8.0729257 13.927074 6.5 12 6.5 z M 12 7.5 C 13.386634 7.5 14.5 8.6133658 14.5 10 C 14.5 11.386634 13.386634 12.5 12 12.5 C 10.613366 12.5 9.5 11.386634 9.5 10 C 9.5 8.6133658 10.613366 7.5 12 7.5 z M 9 17.5 L 15 17.5 C 15.834349 17.5 16.5 18.165651 16.5 19 L 16.5 20.5 L 7.5 20.5 L 7.5 19 C 7.5 18.165651 8.1656506 17.5 9 17.5 z " />
+</svg>

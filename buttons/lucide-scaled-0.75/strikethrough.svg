@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   stroke="currentColor"
+   stroke-width="0.75"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   version="1.1"
+   id="svg2"
+   sodipodi:docname=".tmp_strikethrough.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <path
+     id="path1"
+     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#000000;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 9 3.625 C 6.6814545 3.6237843 5.0435574 5.9390542 5.8164062 8.125 A 0.375 0.375 0 0 0 6.2949219 8.3535156 A 0.375 0.375 0 0 0 6.5234375 7.875 C 5.9154742 6.155421 7.1761112 4.3740437 9 4.375 L 16 4.375 A 0.375 0.375 0 0 0 16.375 4 A 0.375 0.375 0 0 0 16 3.625 L 9 3.625 z M 4 11.625 A 0.375 0.375 0 0 0 3.625 12 A 0.375 0.375 0 0 0 4 12.375 L 14 12.375 C 15.239583 12.375 16.120811 12.827318 16.71875 13.5 C 17.316689 14.172682 17.625 15.083333 17.625 16 C 17.625 16.916667 17.316689 17.827318 16.71875 18.5 C 16.120811 19.172682 15.239583 19.625 14 19.625 L 6 19.625 A 0.375 0.375 0 0 0 5.625 20 A 0.375 0.375 0 0 0 6 20.375 L 14 20.375 C 15.427083 20.375 16.545856 19.827318 17.28125 19 C 18.016644 18.172682 18.375 17.083333 18.375 16 C 18.375 14.916667 18.016644 13.827318 17.28125 13 C 17.074695 12.767626 16.837648 12.557313 16.572266 12.375 L 20 12.375 A 0.375 0.375 0 0 0 20.375 12 A 0.375 0.375 0 0 0 20 11.625 L 14 11.625 L 4 11.625 z " />
+</svg>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   stroke="currentColor"
+   stroke-width="0.75"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname=".tmp_credit-card.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <path
+     id="rect1"
+     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#000000;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 4 4.625 C 2.6907365 4.625 1.625 5.6907365 1.625 7 L 1.625 10 L 1.625 17 C 1.625 18.309264 2.6907365 19.375 4 19.375 L 20 19.375 C 21.309264 19.375 22.375 18.309264 22.375 17 L 22.375 10 L 22.375 7 C 22.375 5.6907365 21.309264 4.625 20 4.625 L 4 4.625 z M 4 5.375 L 20 5.375 C 20.906736 5.375 21.625 6.0932635 21.625 7 L 21.625 9.625 L 2.375 9.625 L 2.375 7 C 2.375 6.0932635 3.0932635 5.375 4 5.375 z M 2.375 10.375 L 21.625 10.375 L 21.625 17 C 21.625 17.906736 20.906736 18.625 20 18.625 L 4 18.625 C 3.0932635 18.625 2.375 17.906736 2.375 17 L 2.375 10.375 z " />
+</svg>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   stroke="currentColor"
+   stroke-width="1"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname=".tmp_target.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <path
+     id="circle1"
+     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#000000;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 12 1.5 C 6.2069324 1.5 1.5 6.2069324 1.5 12 C 1.5 17.793068 6.2069324 22.5 12 22.5 C 17.793068 22.5 22.5 17.793068 22.5 12 C 22.5 6.2069324 17.793068 1.5 12 1.5 z M 12 2.5 C 17.252627 2.5 21.5 6.7473726 21.5 12 C 21.5 17.252627 17.252627 21.5 12 21.5 C 6.7473726 21.5 2.5 17.252627 2.5 12 C 2.5 6.7473726 6.7473726 2.5 12 2.5 z M 12 5.5 C 8.4160714 5.5 5.5 8.4160714 5.5 12 C 5.5 15.583929 8.4160714 18.5 12 18.5 C 15.583929 18.5 18.5 15.583929 18.5 12 C 18.5 8.4160714 15.583929 5.5 12 5.5 z M 12 6.5 C 15.043488 6.5 17.5 8.9565116 17.5 12 C 17.5 15.043488 15.043488 17.5 12 17.5 C 8.9565116 17.5 6.5 15.043488 6.5 12 C 6.5 8.9565116 8.9565116 6.5 12 6.5 z M 12 9.5 C 10.62521 9.5 9.5 10.62521 9.5 12 C 9.5 13.37479 10.62521 14.5 12 14.5 C 13.37479 14.5 14.5 13.37479 14.5 12 C 14.5 10.62521 13.37479 9.5 12 9.5 z M 12 10.5 C 12.834349 10.5 13.5 11.165651 13.5 12 C 13.5 12.834349 12.834349 13.5 12 13.5 C 11.165651 13.5 10.5 12.834349 10.5 12 C 10.5 11.165651 11.165651 10.5 12 10.5 z " />
+</svg>

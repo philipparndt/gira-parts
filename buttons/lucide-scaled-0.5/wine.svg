@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   stroke="currentColor"
+   stroke-width="0.5"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname=".tmp_wine.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <path
+     id="path1"
+     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#000000;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 9 1.75 A 0.250025 0.250025 0 0 0 8.765625 1.9121094 C 7.2708785 5.8981 6.7577035 7.9346501 6.7519531 9.9648438 A 0.25 0.25 0 0 0 6.75 10 A 0.25 0.25 0 0 0 6.7519531 10.033203 C 6.7695279 12.830648 8.9803264 15.113892 11.75 15.244141 L 11.75 21.75 L 8 21.75 A 0.25 0.25 0 0 0 7.75 22 A 0.25 0.25 0 0 0 8 22.25 L 16 22.25 A 0.25 0.25 0 0 0 16.25 22 A 0.25 0.25 0 0 0 16 21.75 L 12.25 21.75 L 12.25 15.244141 C 15.019674 15.113892 17.230472 12.830648 17.248047 10.033203 A 0.25 0.25 0 0 0 17.25 10 C 17.25 9.9891455 17.248076 9.9776515 17.248047 9.9667969 A 0.25 0.25 0 0 0 17.248047 9.9648438 C 17.242296 7.9346501 16.729122 5.8981 15.234375 1.9121094 A 0.250025 0.250025 0 0 0 15 1.75 L 9 1.75 z M 9.1816406 2.25 L 14.818359 2.25 C 16.193449 5.9384745 16.706349 7.9014213 16.748047 9.75 L 7.2519531 9.75 C 7.2936514 7.9014213 7.8065513 5.9384745 9.1816406 2.25 z M 7.2558594 10.25 L 16.744141 10.25 C 16.614445 12.759776 14.542451 14.75 12 14.75 C 9.4575497 14.75 7.3855555 12.759776 7.2558594 10.25 z " />
+</svg>

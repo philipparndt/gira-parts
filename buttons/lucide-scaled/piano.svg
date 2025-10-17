@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   stroke="currentColor"
+   stroke-width="1"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname=".tmp_piano.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <path
+     id="path1"
+     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#000000;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 9.1015625 0.953125 C 8.4670595 0.93819074 7.8311988 1.0015976 7.2148438 1.140625 C 3.9328082 1.8809338 1.0935321 4.7791273 1.5 9.0292969 L 1.5 20 C 1.5 21.37479 2.6252104 22.5 4 22.5 L 20 22.5 C 21.37479 22.5 22.5 21.37479 22.5 20 L 22.5 11.5 C 22.5 9.3192982 20.680702 7.5 18.5 7.5 C 17.296929 7.5 16.27889 6.8265362 15.755859 5.7949219 C 14.660455 2.797908 12.252194 1.2637143 9.734375 0.99414062 C 9.5237158 0.97158612 9.3130635 0.95810309 9.1015625 0.953125 z M 9.0742188 1.9433594 C 9.2570602 1.9457476 9.4393301 1.9551835 9.6210938 1.9726562 C 11.802257 2.1823301 13.861874 3.4847088 14.830078 6.1699219 A 0.50005 0.50005 0 0 0 14.853516 6.2226562 C 15.533018 7.5816658 16.909524 8.5 18.5 8.5 C 20.119298 8.5 21.5 9.8807018 21.5 11.5 L 21.5 13.5 L 18 13.5 L 2.5 13.5 L 2.5 9 A 0.50005 0.50005 0 0 0 2.4980469 8.9511719 C 2.1270132 5.1633894 4.5614703 2.7654754 7.4355469 2.1171875 C 7.9744362 1.9956335 8.5256945 1.9361947 9.0742188 1.9433594 z M 2.5 14.5 L 5.5 14.5 L 5.5 18 A 0.5 0.5 0 0 0 6 18.5 A 0.5 0.5 0 0 0 6.5 18 L 6.5 14.5 L 9.5 14.5 L 9.5 18 A 0.5 0.5 0 0 0 10 18.5 A 0.5 0.5 0 0 0 10.5 18 L 10.5 14.5 L 13.5 14.5 L 13.5 18 A 0.5 0.5 0 0 0 14 18.5 A 0.5 0.5 0 0 0 14.5 18 L 14.5 14.5 L 17.5 14.5 L 17.5 18 A 0.5 0.5 0 0 0 18 18.5 A 0.5 0.5 0 0 0 18.5 18 L 18.5 14.5 L 21.5 14.5 L 21.5 20 C 21.5 20.834349 20.834349 21.5 20 21.5 L 4 21.5 C 3.1656506 21.5 2.5 20.834349 2.5 20 L 2.5 14.5 z " />
+</svg>

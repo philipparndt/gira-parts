@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   stroke="currentColor"
+   stroke-width="0.8"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname=".tmp_music-2.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <path
+     id="circle1"
+     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#000000;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 11.984375 1.5996094 A 0.40004001 0.40004001 0 0 0 11.599609 2 L 11.599609 15.472656 C 10.802326 14.34095 9.4856325 13.599609 8 13.599609 C 5.574685 13.599609 3.5996094 15.574685 3.5996094 18 C 3.5996094 20.425315 5.574685 22.400391 8 22.400391 C 10.425029 22.400391 12.399924 20.424922 12.400391 18 L 12.400391 2.6894531 L 18.800781 6.3476562 A 0.40000001 0.40000001 0 0 0 19.347656 6.1992188 A 0.40000001 0.40000001 0 0 0 19.199219 5.6523438 L 12.199219 1.6523438 A 0.40004001 0.40004001 0 0 0 11.984375 1.5996094 z M 8 14.400391 C 9.9929629 14.400391 11.599609 16.007037 11.599609 18 C 11.59923 19.992636 9.9927275 21.599609 8 21.599609 C 6.0070371 21.599609 4.4003906 19.992963 4.4003906 18 C 4.4003906 16.007037 6.0070371 14.400391 8 14.400391 z " />
+</svg>

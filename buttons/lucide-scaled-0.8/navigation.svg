@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   stroke="currentColor"
+   stroke-width="0.8"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname=".tmp_navigation.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <path
+     id="polygon1"
+     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#000000;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 21.986328 1.5996094 A 0.40004001 0.40004001 0 0 0 21.828125 1.6386719 L 2.828125 10.638672 A 0.40004001 0.40004001 0 0 0 2.9023438 11.388672 L 10.669922 13.330078 L 12.611328 21.097656 A 0.40004001 0.40004001 0 0 0 13.361328 21.171875 L 22.361328 2.171875 A 0.40004001 0.40004001 0 0 0 21.986328 1.5996094 z M 21.158203 2.8417969 L 13.117188 19.818359 L 11.388672 12.902344 A 0.40004001 0.40004001 0 0 0 11.097656 12.611328 L 4.1816406 10.882812 L 21.158203 2.8417969 z " />
+</svg>

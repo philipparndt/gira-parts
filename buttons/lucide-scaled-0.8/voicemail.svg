@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   stroke="currentColor"
+   stroke-width="0.8"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   version="1.1"
+   id="svg2"
+   sodipodi:docname=".tmp_voicemail.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <path
+     id="circle1"
+     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#000000;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 6 7.5996094 C 3.574685 7.5996094 1.5996094 9.574685 1.5996094 12 C 1.5996094 14.425029 3.5750774 16.399925 6 16.400391 L 18 16.400391 C 20.424922 16.399924 22.400391 14.425029 22.400391 12 C 22.400391 9.574685 20.425315 7.5996094 18 7.5996094 C 15.574685 7.5996094 13.599609 9.574685 13.599609 12 C 13.599609 13.485632 14.34095 14.802326 15.472656 15.599609 L 8.5273438 15.599609 C 9.6590496 14.802326 10.400391 13.485632 10.400391 12 C 10.400391 9.574685 8.425315 7.5996094 6 7.5996094 z M 6 8.4003906 C 7.9929629 8.4003906 9.5996094 10.007037 9.5996094 12 C 9.5996094 13.992963 7.9929629 15.599609 6 15.599609 C 4.0073634 15.59923 2.4003906 13.992728 2.4003906 12 C 2.4003906 10.007037 4.0070371 8.4003906 6 8.4003906 z M 18 8.4003906 C 19.992963 8.4003906 21.599609 10.007037 21.599609 12 C 21.599609 13.992728 19.992636 15.59923 18 15.599609 C 16.007037 15.599609 14.400391 13.992963 14.400391 12 C 14.400391 10.007037 16.007037 8.4003906 18 8.4003906 z " />
+</svg>

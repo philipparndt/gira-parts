@@ -5,3 +5,4 @@ tests/
 *.3mf
 *.stl
 *.log
+tmp/

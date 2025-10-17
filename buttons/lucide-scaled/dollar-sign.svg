@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   stroke="currentColor"
+   stroke-width="1"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname=".tmp_dollar-sign.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <path
+     id="line1"
+     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#000000;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 12 1.5 A 0.5 0.5 0 0 0 11.5 2 L 11.5 4.5 L 9.5 4.5 C 8.2083338 4.5 7.1769226 5.0023778 6.5019531 5.7617188 C 5.8269837 6.5210598 5.5 7.5138889 5.5 8.5 C 5.5 9.4861111 5.8269837 10.47894 6.5019531 11.238281 C 7.1769226 11.997622 8.2083338 12.5 9.5 12.5 L 11.5 12.5 L 11.5 18.5 L 6 18.5 A 0.5 0.5 0 0 0 5.5 19 A 0.5 0.5 0 0 0 6 19.5 L 11.5 19.5 L 11.5 22 A 0.5 0.5 0 0 0 12 22.5 A 0.5 0.5 0 0 0 12.5 22 L 12.5 19.5 L 14.5 19.5 C 15.791666 19.5 16.823077 18.997622 17.498047 18.238281 C 18.173016 17.47894 18.5 16.486111 18.5 15.5 C 18.5 14.513889 18.173016 13.52106 17.498047 12.761719 C 16.823077 12.002378 15.791666 11.5 14.5 11.5 L 12.5 11.5 L 12.5 5.5 L 17 5.5 A 0.5 0.5 0 0 0 17.5 5 A 0.5 0.5 0 0 0 17 4.5 L 12.5 4.5 L 12.5 2 A 0.5 0.5 0 0 0 12 1.5 z M 9.5 5.5 L 11.5 5.5 L 11.5 11.5 L 9.5 11.5 C 8.4583339 11.5 7.7397436 11.127378 7.2480469 10.574219 C 6.7563502 10.02106 6.5 9.2638889 6.5 8.5 C 6.5 7.7361111 6.7563502 6.9789403 7.2480469 6.4257812 C 7.7397436 5.8726223 8.4583339 5.5 9.5 5.5 z M 12.5 12.5 L 14.5 12.5 C 15.541666 12.5 16.260256 12.872622 16.751953 13.425781 C 17.24365 13.97894 17.5 14.736111 17.5 15.5 C 17.5 16.263889 17.24365 17.02106 16.751953 17.574219 C 16.260256 18.127378 15.541666 18.5 14.5 18.5 L 12.5 18.5 L 12.5 12.5 z " />
+</svg>
