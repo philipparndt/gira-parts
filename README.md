@@ -49,8 +49,8 @@ This project provides various 3D-printed components for Gira smart home systems:
 - `radio_button_icons1.scad` & `radio_button_icons2.scad` - Additional icon variants
 
 #### Senic E2 Button (`senic/`)
-- `gira-senic-full-button.scad` - Full-size Senic button adapter
-- `gira-senic-half-button.scad` - Half-size Senic button adapter
+- `gira-senic-full-button.scad` - Full-size Senic button
+- `gira-senic-half-button.scad` - Half-size Senic button
 - `gira-senic-test.scad` - Test components
 
 ## Building
