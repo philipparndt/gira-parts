@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   stroke="currentColor"
+   stroke-width="2.5"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   version="1.1"
+   id="svg9"
+   sodipodi:docname=".tmp_spray-can.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     id="namedview9"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <path
+     id="path1"
+     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#000000;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 3 1.75 A 1.25 1.25 0 0 0 1.75 3 A 1.25 1.25 0 0 0 3 4.25 L 3.0097656 4.25 A 1.25 1.25 0 0 0 4.2597656 3 A 1.25 1.25 0 0 0 3.0097656 1.75 L 3 1.75 z M 7 3.75 A 1.25 1.25 0 0 0 5.75 5 A 1.25 1.25 0 0 0 7 6.25 L 7.0097656 6.25 A 1.25 1.25 0 0 0 8.2597656 5 A 1.25 1.25 0 0 0 7.0097656 3.75 L 7 3.75 z M 15 3.75 A 1.250125 1.250125 0 0 0 13.75 5 L 13.75 8.4804688 L 12.115234 10.115234 A 1.250125 1.250125 0 0 0 11.75 11 L 11.75 13.982422 A 1.25 1.25 0 0 0 11.75 14.017578 L 11.75 18.982422 A 1.25 1.25 0 0 0 11.75 19.017578 L 11.75 21 C 11.75 21.577778 11.963087 22.181837 12.390625 22.609375 C 12.818163 23.036913 13.422222 23.25 14 23.25 L 20 23.25 C 20.577778 23.25 21.181837 23.036913 21.609375 22.609375 C 22.036913 22.181837 22.25 21.577778 22.25 21 L 22.25 17.017578 A 1.25 1.25 0 0 0 22.25 16.982422 L 22.25 12.017578 A 1.25 1.25 0 0 0 22.25 11.982422 L 22.25 11 A 1.250125 1.250125 0 0 0 21.884766 10.115234 L 20.25 8.4804688 L 20.25 5 A 1.250125 1.250125 0 0 0 19 3.75 L 15 3.75 z M 3 5.75 A 1.25 1.25 0 0 0 1.75 7 A 1.25 1.25 0 0 0 3 8.25 L 3.0097656 8.25 A 1.25 1.25 0 0 0 4.2597656 7 A 1.25 1.25 0 0 0 3.0097656 5.75 L 3 5.75 z M 11 5.75 A 1.25 1.25 0 0 0 9.75 7 A 1.25 1.25 0 0 0 11 8.25 L 11.009766 8.25 A 1.25 1.25 0 0 0 12.259766 7 A 1.25 1.25 0 0 0 11.009766 5.75 L 11 5.75 z M 16.25 6.25 L 17.75 6.25 L 17.75 7.75 L 16.25 7.75 L 16.25 6.25 z M 7 7.75 A 1.25 1.25 0 0 0 5.75 9 A 1.25 1.25 0 0 0 7 10.25 L 7.0097656 10.25 A 1.25 1.25 0 0 0 8.2597656 9 A 1.25 1.25 0 0 0 7.0097656 7.75 L 7 7.75 z M 3 9.75 A 1.25 1.25 0 0 0 1.75 11 A 1.25 1.25 0 0 0 3 12.25 L 3.0097656 12.25 A 1.25 1.25 0 0 0 4.2597656 11 A 1.25 1.25 0 0 0 3.0097656 9.75 L 3 9.75 z M 15.519531 10.25 L 18.480469 10.25 L 19.355469 11.123047 L 14.25 12.398438 L 14.25 11.517578 L 15.519531 10.25 z M 19.75 13.601562 L 19.75 16.023438 L 14.25 17.398438 L 14.25 14.976562 L 19.75 13.601562 z M 19.75 18.601562 L 19.75 20.75 L 14.25 20.75 L 14.25 19.976562 L 19.75 18.601562 z " />
+</svg>

@@ -6,7 +6,7 @@
 # ============================================================================
 # CONFIGURATION - Adjust these variables as needed
 # ============================================================================
-STROKE_WIDTH=1.25            # Stroke width for the scaled icons (original is 2)
+STROKE_WIDTH=2.5            # Stroke width for the scaled icons (original is 2)
 
 # ============================================================================
 # PATHS

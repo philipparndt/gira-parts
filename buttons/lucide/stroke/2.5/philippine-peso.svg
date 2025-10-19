@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   stroke="currentColor"
+   stroke-width="2.5"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname=".tmp_philippine-peso.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <path
+     id="path1"
+     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#000000;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 8 1.75 C 6.7721651 1.75 5.75 2.7721651 5.75 4 L 5.75 5.75 L 4 5.75 A 1.25 1.25 0 0 0 2.75 7 A 1.25 1.25 0 0 0 4 8.25 L 5.75 8.25 L 5.75 9.75 L 4 9.75 A 1.25 1.25 0 0 0 2.75 11 A 1.25 1.25 0 0 0 4 12.25 L 5.75 12.25 L 5.75 15 L 5.75 21 A 1.25 1.25 0 0 0 7 22.25 A 1.25 1.25 0 0 0 8.25 21 L 8.25 16.25 L 12 16.25 C 14.822488 16.25 17.280301 14.617715 18.476562 12.25 L 20 12.25 A 1.25 1.25 0 0 0 21.25 11 A 1.25 1.25 0 0 0 20 9.75 L 19.210938 9.75 C 19.236552 9.503365 19.25 9.2531493 19.25 9 C 19.25 8.7468507 19.236552 8.496635 19.210938 8.25 L 20 8.25 A 1.25 1.25 0 0 0 21.25 7 A 1.25 1.25 0 0 0 20 5.75 L 18.476562 5.75 C 17.280301 3.3822848 14.822488 1.75 12 1.75 L 8 1.75 z M 8.25 4.25 L 12 4.25 C 13.376719 4.25 14.609874 4.8251074 15.474609 5.75 L 8.25 5.75 L 8.25 4.25 z M 8.25 8.25 L 16.691406 8.25 C 16.729556 8.4941076 16.75 8.7445872 16.75 9 C 16.75 9.2554128 16.729556 9.5058924 16.691406 9.75 L 8.25 9.75 L 8.25 8.25 z M 8.25 12.25 L 15.474609 12.25 C 14.609874 13.174893 13.376719 13.75 12 13.75 L 8.25 13.75 L 8.25 12.25 z " />
+</svg>
