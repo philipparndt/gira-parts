@@ -52,12 +52,14 @@ module case() {
 }
 
 module simple_case(width = 27.4, length = 54.5) {
+    h=7.7;
+
     translate([-length/2, width, 0])
     rotate([0,0,90+180])
     difference() {
-        cube([width, length, 7.7]);
+        cube([width, length, h]);
         translate([1.4,1.4,case_bottom_height])
-            cube([width-(1.4*2)+1.5, length-(1.4*2), 7.7]);
+            cube([width-(1.4*2)+1.5, length-(1.4*2), h]);
     }
 
     translate([-length/2,0,case_bottom_height])
@@ -79,6 +81,18 @@ module simple_case(width = 27.4, length = 54.5) {
         cube([1, 1.3, .7]);
     *translate([-length/2,0,case_bottom_height])
         cube([length, 1, 1]);
+
+    translate([-length/2,width,0])
+        cube([length, .4, h]);
+
+    translate([-length/2,width+.4,h])
+        rotate([0,90,0])
+            linear_extrude(height=length)
+                polygon(points=[
+                        [0,0.4],
+                        [0,0],
+                        [h,0],
+                    ]);
 }
 
 // test .5 and .2
@@ -108,7 +122,7 @@ module holder(distance, diameter=4.2, thickness=1.5) {
                 rotate([90,0,0])
                     cylinder(d=diameter, h=10, center=true, $fn=100);
 
-            offset = .8;
+            offset = .5;
             translate([-distance/2-(diameter-offset)/2,-5,3])
                 cube([diameter-offset,10,5]);
         }
@@ -134,8 +148,10 @@ module pins() {
 
 module button() {
     width = 26.5; length = 54.5;
-    simple_case(width=width,length=length);
-    //case();
+    union() {
+        simple_case(width=width,length=length);
+        //case();
+    }
 
     translate([0, width - 23.7, case_bottom_height]) {
         pins();
@@ -146,8 +162,14 @@ module button() {
         holder(7.75, diameter=4.2);
 
     middle_holder_thickness=3;
-    translate([7.75/2,width-9.5-middle_holder_thickness,case_bottom_height])
-        holder(7.75, thickness=middle_holder_thickness, diameter=4.1);
+    translate([7.75/2,width-9.5-middle_holder_thickness,case_bottom_height]) {
+        holder(7.75, thickness=middle_holder_thickness, diameter=4.2);
+
+        l=6;
+        cube([l,3,4.9]);
+        translate([-7.75-l,0,0])
+        cube([l,3,4.9]);
+    }
 
 }
 
