@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   stroke="currentColor"
+   stroke-width="2.5"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   version="1.1"
+   id="svg2"
+   sodipodi:docname=".tmp_mountain-snow.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <path
+     id="path1"
+     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#000000;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 7.9121094 1.7539062 A 1.250125 1.250125 0 0 0 6.8144531 2.6054688 L 0.81445312 20.605469 A 1.250125 1.250125 0 0 0 2 22.25 L 22 22.25 A 1.250125 1.250125 0 0 0 23.185547 20.605469 L 21.425781 15.326172 A 1.25 1.25 0 0 0 21.404297 15.263672 L 18.185547 5.6054688 A 1.250125 1.250125 0 0 0 16.115234 5.1152344 L 12.341797 8.8886719 L 9.1171875 2.4414062 A 1.250125 1.250125 0 0 0 7.9121094 1.7539062 z M 8.2324219 6.2558594 L 10.882812 11.558594 A 1.250125 1.250125 0 0 0 12.884766 11.884766 L 16.455078 8.3144531 L 18.726562 15.130859 C 16.671449 16.207051 14.871638 16.00201 12.722656 14.480469 A 1.250125 1.250125 0 0 0 12.720703 14.478516 C 11.262512 13.44889 9.6978652 12.887014 8.1269531 12.804688 C 7.4116577 12.7672 6.6944251 12.82969 5.9863281 12.992188 L 8.2324219 6.2558594 z M 7.7167969 15.203125 C 8.8642728 15.189066 10.008215 15.623965 11.279297 16.521484 C 13.874708 18.358099 16.807373 18.6898 19.515625 17.5 L 20.265625 19.75 L 3.734375 19.75 L 4.9707031 16.042969 C 5.9307668 15.496571 6.8243156 15.21406 7.7167969 15.203125 z " />
+</svg>

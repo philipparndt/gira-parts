@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   stroke="currentColor"
+   stroke-width="2.5"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname=".tmp_smartphone-charging.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <path
+     id="rect1"
+     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#000000;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 7 0.75 C 5.2211215 0.75 3.75 2.2211215 3.75 4 L 3.75 20 C 3.75 21.778878 5.2211215 23.25 7 23.25 L 17 23.25 C 18.778878 23.25 20.25 21.778878 20.25 20 L 20.25 4 C 20.25 2.2211215 18.778878 0.75 17 0.75 L 7 0.75 z M 7 3.25 L 17 3.25 C 17.437122 3.25 17.75 3.5628785 17.75 4 L 17.75 20 C 17.75 20.437122 17.437122 20.75 17 20.75 L 7 20.75 C 6.5628785 20.75 6.25 20.437122 6.25 20 L 6.25 4 C 6.25 3.5628785 6.5628785 3.25 7 3.25 z M 12.748047 6.7519531 A 1.25 1.25 0 0 0 11.626953 7.3066406 L 8.9609375 11.306641 A 1.250125 1.250125 0 0 0 10 13.25 L 11.664062 13.25 L 10.292969 15.306641 A 1.25 1.25 0 0 0 10.638672 17.039062 A 1.25 1.25 0 0 0 12.373047 16.693359 L 15.039062 12.693359 A 1.250125 1.250125 0 0 0 14 10.75 L 12.335938 10.75 L 13.707031 8.6933594 A 1.25 1.25 0 0 0 13.361328 6.9609375 A 1.25 1.25 0 0 0 12.748047 6.7519531 z " />
+</svg>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   stroke="currentColor"
+   stroke-width="2.5"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname=".tmp_tag.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <path
+     id="path1"
+     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#000000;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 4 0.75 C 2.2198804 0.75 0.75 2.2198804 0.75 4 L 0.75 11.171875 C 0.75018397 12.033278 1.093929 12.861691 1.703125 13.470703 L 10.40625 22.173828 A 1.250125 1.250125 0 0 0 10.408203 22.175781 C 11.831568 23.590159 14.168432 23.590159 15.591797 22.175781 A 1.250125 1.250125 0 0 0 15.59375 22.173828 L 22.173828 15.59375 A 1.250125 1.250125 0 0 0 22.175781 15.591797 C 23.590159 14.168432 23.590159 11.831568 22.175781 10.408203 A 1.250125 1.250125 0 0 0 22.173828 10.40625 L 13.470703 1.703125 C 12.861691 1.093929 12.033278 0.75018397 11.171875 0.75 L 4 0.75 z M 4 3.25 L 11.171875 3.25 C 11.371251 3.2500426 11.560213 3.329702 11.701172 3.4707031 L 20.40625 12.173828 C 20.870244 12.642816 20.869663 13.359849 20.404297 13.828125 L 13.828125 20.404297 C 13.359849 20.869616 12.642816 20.870197 12.173828 20.40625 L 12.171875 20.404297 L 3.4707031 11.701172 C 3.3297956 11.560213 3.2500426 11.371251 3.25 11.171875 L 3.25 4 C 3.25 3.5709806 3.5709806 3.25 4 3.25 z M 7.5 5.75 C 6.5483075 5.75 5.75 6.5483075 5.75 7.5 C 5.75 8.4516925 6.5483075 9.25 7.5 9.25 C 8.4516925 9.25 9.25 8.4516925 9.25 7.5 C 9.25 6.5483075 8.4516925 5.75 7.5 5.75 z M 7.5 6.75 C 7.8994078 6.75 8.25 7.1005922 8.25 7.5 C 8.25 7.8994078 7.8994078 8.25 7.5 8.25 C 7.1005922 8.25 6.75 7.8994078 6.75 7.5 C 6.75 7.1005922 7.1005922 6.75 7.5 6.75 z M 7.5 7 A 0.5 0.5 0 0 0 7 7.5 A 0.5 0.5 0 0 0 7.5 8 A 0.5 0.5 0 0 0 8 7.5 A 0.5 0.5 0 0 0 7.5 7 z " />
+</svg>
