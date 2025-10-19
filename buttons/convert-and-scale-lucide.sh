@@ -7,7 +7,7 @@
 # CONFIGURATION - Adjust these variables as needed
 # ============================================================================
 SCALE_FACTOR=1          # 0.8 = 80% of original size (24x24 -> 19.2x19.2)
-STROKE_WIDTH=0.75            # Stroke width for the scaled icons (original is 2)
+STROKE_WIDTH=1.2            # Stroke width for the scaled icons (original is 2)
 
 # ============================================================================
 # PATHS
@@ -15,7 +15,7 @@ STROKE_WIDTH=0.75            # Stroke width for the scaled icons (original is 2)
 # Get the directory where this script is located
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 SRC_DIR="$SCRIPT_DIR/lucide-main/icons"
-OUT_DIR="$SCRIPT_DIR/lucide-scaled-0.75"
+OUT_DIR="$SCRIPT_DIR/lucide-scaled-1.2"
 mkdir -p "$OUT_DIR"
 
 # Calculate scaled dimensions
@@ -102,7 +102,7 @@ fi
 # Check if GNU parallel is available for faster processing
 if command -v parallel >/dev/null 2>&1; then
   echo "🚀 Using parallel processing..."
-  find "$SRC_DIR" -maxdepth 1 -name "*.svg" | parallel -j8 convert_svg
+  find "$SRC_DIR" -maxdepth 1 -name "*.svg" | parallel -j12 convert_svg
 else
   echo "📝 Processing sequentially (install 'parallel' for faster processing: brew install parallel)"
   for file in "$SRC_DIR"/*.svg; do
