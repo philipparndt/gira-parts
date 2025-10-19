@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   stroke="currentColor"
+   stroke-width="1"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname=".tmp_fire-extinguisher.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <path
+     id="path1"
+     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#000000;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 12 1.5 C 11.347496 1.5 10.78616 1.9267675 10.582031 2.5136719 C 7.1920402 2.7298233 4.5 5.5564325 4.5 9 L 4.5 20 A 0.5 0.5 0 0 0 5 20.5 A 0.5 0.5 0 0 0 5.5 20 L 5.5 13.5 L 8.5 13.5 L 8.5 18 L 8.5 20 C 8.5 21.37479 9.6252104 22.5 11 22.5 L 15 22.5 C 16.37479 22.5 17.5 21.37479 17.5 20 L 17.5 18 L 17.5 10 C 17.5 8.5416672 16.935122 7.3852559 16.082031 6.6269531 C 15.89928 6.4645081 15.70438 6.3202478 15.5 6.1933594 L 15.5 3.5 L 18 3.5 A 0.5 0.5 0 0 0 18.5 3 A 0.5 0.5 0 0 0 18 2.5 L 15.414062 2.5 C 15.206134 1.9199564 14.647571 1.5 14 1.5 L 12 1.5 z M 12 2.5 L 14 2.5 C 14.282065 2.5 14.5 2.7179353 14.5 3 L 14.5 5.7324219 C 14.015815 5.5767853 13.507207 5.5 13 5.5 C 12.492793 5.5 11.984185 5.5767854 11.5 5.7324219 L 11.5 3 C 11.5 2.7179353 11.717935 2.5 12 2.5 z M 10.5 3.5214844 L 10.5 6.1933594 C 10.29562 6.3202478 10.10072 6.464508 9.9179688 6.6269531 C 9.0648777 7.3852559 8.5 8.5416672 8.5 10 L 8.5 12.5 L 5.5 12.5 L 5.5 9 C 5.5 6.1250849 7.6919243 3.7731176 10.5 3.5214844 z M 13 6.5 C 13.580964 6.5 14.158505 6.6282076 14.669922 6.8769531 A 0.5 0.5 0 0 0 14.875 6.984375 C 15.068981 7.0953867 15.251309 7.2249051 15.417969 7.3730469 C 16.064878 7.9480769 16.5 8.7916673 16.5 10 L 16.5 17.5 L 9.5 17.5 L 9.5 13 L 9.5 10 C 9.5 8.7916673 9.9351224 7.9480769 10.582031 7.3730469 C 10.748691 7.2249051 10.931019 7.0953867 11.125 6.984375 A 0.5 0.5 0 0 0 11.330078 6.8769531 C 11.841495 6.6282076 12.419036 6.5 13 6.5 z M 9.5 18.5 L 16.5 18.5 L 16.5 20 C 16.5 20.834349 15.834349 21.5 15 21.5 L 11 21.5 C 10.165651 21.5 9.5 20.834349 9.5 20 L 9.5 18.5 z " />
+</svg>

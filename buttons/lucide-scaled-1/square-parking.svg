@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   stroke="currentColor"
+   stroke-width="1"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname=".tmp_square-parking.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <path
+     id="rect1"
+     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#000000;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 5 2.5 C 3.6236486 2.5 2.5 3.6236486 2.5 5 L 2.5 19 C 2.5 20.376351 3.6236486 21.5 5 21.5 L 19 21.5 C 20.376351 21.5 21.5 20.376351 21.5 19 L 21.5 5 C 21.5 3.6236486 20.376351 2.5 19 2.5 L 5 2.5 z M 5 3.5 L 19 3.5 C 19.839649 3.5 20.5 4.1603514 20.5 5 L 20.5 19 C 20.5 19.839649 19.839649 20.5 19 20.5 L 5 20.5 C 4.1603514 20.5 3.5 19.839649 3.5 19 L 3.5 5 C 3.5 4.1603514 4.1603514 3.5 5 3.5 z M 9 6.5 A 0.50005 0.50005 0 0 0 8.5 7 L 8.5 13 L 8.5 17 A 0.5 0.5 0 0 0 9 17.5 A 0.5 0.5 0 0 0 9.5 17 L 9.5 13.5 L 13 13.5 C 14.125 13.5 15.031411 13.060122 15.623047 12.394531 C 16.214683 11.72894 16.5 10.861111 16.5 10 C 16.5 9.1388889 16.214683 8.2710597 15.623047 7.6054688 C 15.031411 6.9398778 14.125 6.5 13 6.5 L 9 6.5 z M 9.5 7.5 L 13 7.5 C 13.875 7.5 14.46859 7.8101222 14.876953 8.2695312 C 15.285317 8.7289402 15.5 9.3611111 15.5 10 C 15.5 10.638889 15.285317 11.27106 14.876953 11.730469 C 14.46859 12.189878 13.875 12.5 13 12.5 L 9.5 12.5 L 9.5 7.5 z " />
+</svg>
