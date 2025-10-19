@@ -4,7 +4,7 @@
 # Usage: ./render_radio_buttons.sh
 
 # Define the files to render
-SCAD_FILES=("radio_button_icons1.scad" "radio_button_icons2.scad" "radio_button.scad")
+SCAD_FILES=("radio_button_icons.scad" "radio_button.scad")
 TMP_DIR="tmp"
 STL_FILES=()
 

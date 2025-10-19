@@ -3,6 +3,9 @@ use <./button.scad>
 difference() {
     button();
 
+    translate([0, 26.4/2, 0.1])
+        cube([54.5, 26.4, 0.1], center = true);
+
     translate([-21+6, 16.5, 0])
         linear_extrude(height = .1)
             mirror([0,1,0])
