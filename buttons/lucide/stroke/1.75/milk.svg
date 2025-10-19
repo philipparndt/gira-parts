@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   stroke="currentColor"
+   stroke-width="1.75"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname=".tmp_milk.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <path
+     id="path1"
+     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#000000;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 8 1.125 A 0.875 0.875 0 0 0 7.125 2 A 0.875 0.875 0 0 0 8 2.875 L 8.125 2.875 L 8.125 4.7890625 C 8.1249842 5.4061644 7.9419624 6.0100088 7.5996094 6.5234375 L 6.9433594 7.5058594 C 6.4091713 8.306984 6.124784 9.25 6.125 10.212891 L 6.125 15.003906 L 6.125 20 C 6.125 21.577455 7.4225454 22.875 9 22.875 L 15 22.875 C 16.577455 22.875 17.875 21.577455 17.875 20 L 17.875 14.996094 L 17.875 10.210938 C 17.874975 9.2484618 17.590598 8.3066388 17.056641 7.5058594 L 16.400391 6.5234375 C 16.05789 6.0097872 15.874862 5.4064307 15.875 4.7890625 A 0.8750875 0.8750875 0 0 0 15.875 4.7871094 L 15.875 2.875 L 16 2.875 A 0.875 0.875 0 0 0 16.875 2 A 0.875 0.875 0 0 0 16 1.125 L 8 1.125 z M 9.875 2.875 L 14.125 2.875 L 14.125 4.7871094 C 14.124784 5.7499996 14.409171 6.693016 14.943359 7.4941406 L 15.599609 8.4765625 C 15.941962 8.9899912 16.124984 9.5938351 16.125 10.210938 L 16.125 14.386719 C 14.884271 14.76336 13.544808 14.698982 12.337891 14.193359 C 11.430251 13.813254 10.465177 13.623047 9.5 13.623047 C 8.9548569 13.623047 8.409747 13.683387 7.875 13.804688 L 7.875 10.212891 A 0.8750875 0.8750875 0 0 0 7.875 10.210938 C 7.8748615 9.5936158 8.0578898 8.9902128 8.4003906 8.4765625 L 9.0566406 7.4941406 C 9.5905984 6.6933612 9.8749753 5.7515377 9.875 4.7890625 L 9.875 2.875 z M 9.3007812 15.375 C 10.102169 15.346386 10.907723 15.490715 11.662109 15.806641 C 13.082413 16.401657 14.643451 16.531389 16.125 16.195312 L 16.125 20 C 16.125 20.631684 15.631684 21.125 15 21.125 L 9 21.125 C 8.3683156 21.125 7.875 20.631684 7.875 20 L 7.875 15.613281 C 8.3402876 15.472078 8.8199488 15.392169 9.3007812 15.375 z " />
+</svg>

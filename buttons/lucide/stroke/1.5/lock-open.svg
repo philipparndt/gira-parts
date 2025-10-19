@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   stroke="currentColor"
+   stroke-width="1.125"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname=".tmp_lock-open.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <path
+     id="rect1"
+     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#000000;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 11.923828 1.4316406 C 11.762318 1.434355 11.601734 1.4447428 11.441406 1.4609375 C 8.8761678 1.7200525 6.4341964 3.7127893 6.4375 7 L 6.4375 10.4375 L 5 10.4375 C 3.5901047 10.4375 2.4375 11.590105 2.4375 13 L 2.4375 20 C 2.4375 21.409895 3.5901047 22.5625 5 22.5625 L 19 22.5625 C 20.409895 22.5625 21.5625 21.409895 21.5625 20 L 21.5625 13 C 21.5625 11.590105 20.409895 10.4375 19 10.4375 L 7.5625 10.4375 L 7.5625 7 C 7.55974 4.2539344 9.4685579 2.7907982 11.554688 2.5800781 C 13.640816 2.369358 15.803156 3.4201811 16.349609 6.1113281 A 0.5625 0.5625 0 0 0 17.011719 6.5507812 A 0.5625 0.5625 0 0 0 17.451172 5.8886719 C 16.837917 2.8685439 14.346477 1.3909252 11.923828 1.4316406 z M 5 11.5625 L 7 11.5625 L 19 11.5625 C 19.806105 11.5625 20.4375 12.193895 20.4375 13 L 20.4375 20 C 20.4375 20.806105 19.806105 21.4375 19 21.4375 L 5 21.4375 C 4.1938953 21.4375 3.5625 20.806105 3.5625 20 L 3.5625 13 C 3.5625 12.193895 4.1938953 11.5625 5 11.5625 z " />
+</svg>

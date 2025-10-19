@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   stroke="currentColor"
+   stroke-width="2"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname=".tmp_panel-left-right-dashed.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     id="namedview8"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <path
+     id="path1"
+     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#000000;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 5 2 C 3.3552972 2 2 3.3552972 2 5 L 2 19 C 2 20.644703 3.3552972 22 5 22 L 9 22 L 15 22 L 19 22 C 20.644703 22 22 20.644703 22 19 L 22 5 C 22 3.3552972 20.644703 2 19 2 L 15 2 L 9 2 L 5 2 z M 5 4 L 8 4 L 8 5 A 1 1 0 0 0 9 6 A 1 1 0 0 0 10 5 L 10 4 L 14 4 L 14 5 A 1 1 0 0 0 15 6 A 1 1 0 0 0 16 5 L 16 4 L 19 4 C 19.571297 4 20 4.4287028 20 5 L 20 19 C 20 19.571297 19.571297 20 19 20 L 16 20 L 16 19 A 1 1 0 0 0 15 18 A 1 1 0 0 0 14 19 L 14 20 L 10 20 L 10 19 A 1 1 0 0 0 9 18 A 1 1 0 0 0 8 19 L 8 20 L 5 20 C 4.4287028 20 4 19.571297 4 19 L 4 5 C 4 4.4287028 4.4287028 4 5 4 z M 9 8 A 1 1 0 0 0 8 9 L 8 10 A 1 1 0 0 0 9 11 A 1 1 0 0 0 10 10 L 10 9 A 1 1 0 0 0 9 8 z M 15 8 A 1 1 0 0 0 14 9 L 14 10 A 1 1 0 0 0 15 11 A 1 1 0 0 0 16 10 L 16 9 A 1 1 0 0 0 15 8 z M 9 13 A 1 1 0 0 0 8 14 L 8 15 A 1 1 0 0 0 9 16 A 1 1 0 0 0 10 15 L 10 14 A 1 1 0 0 0 9 13 z M 15 13 A 1 1 0 0 0 14 14 L 14 15 A 1 1 0 0 0 15 16 A 1 1 0 0 0 16 15 L 16 14 A 1 1 0 0 0 15 13 z " />
+</svg>

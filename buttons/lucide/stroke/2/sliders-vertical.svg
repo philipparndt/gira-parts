@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   stroke="currentColor"
+   stroke-width="2"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   version="1.1"
+   id="svg9"
+   sodipodi:docname=".tmp_sliders-vertical.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     id="namedview9"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <path
+     id="path1"
+     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#000000;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 5 2 A 1 1 0 0 0 4 3 L 4 10 A 1 1 0 0 0 5 11 A 1 1 0 0 0 6 10 L 6 3 A 1 1 0 0 0 5 2 z M 12 2 A 1 1 0 0 0 11 3 L 11 7 L 10 7 A 1 1 0 0 0 9 8 A 1 1 0 0 0 10 9 L 14 9 A 1 1 0 0 0 15 8 A 1 1 0 0 0 14 7 L 13 7 L 13 3 A 1 1 0 0 0 12 2 z M 19 2 A 1 1 0 0 0 18 3 L 18 12 A 1 1 0 0 0 19 13 A 1 1 0 0 0 20 12 L 20 3 A 1 1 0 0 0 19 2 z M 12 11 A 1 1 0 0 0 11 12 L 11 21 A 1 1 0 0 0 12 22 A 1 1 0 0 0 13 21 L 13 12 A 1 1 0 0 0 12 11 z M 3 13 A 1 1 0 0 0 2 14 A 1 1 0 0 0 3 15 L 4 15 L 4 21 A 1 1 0 0 0 5 22 A 1 1 0 0 0 6 21 L 6 15 L 7 15 A 1 1 0 0 0 8 14 A 1 1 0 0 0 7 13 L 5 13 L 3 13 z M 17 15 A 1 1 0 0 0 16 16 A 1 1 0 0 0 17 17 L 18 17 L 18 21 A 1 1 0 0 0 19 22 A 1 1 0 0 0 20 21 L 20 17 L 21 17 A 1 1 0 0 0 22 16 A 1 1 0 0 0 21 15 L 17 15 z " />
+</svg>

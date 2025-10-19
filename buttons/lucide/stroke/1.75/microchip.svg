@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   stroke="currentColor"
+   stroke-width="1.75"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   version="1.1"
+   id="svg11"
+   sodipodi:docname=".tmp_microchip.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs11" />
+  <sodipodi:namedview
+     id="namedview11"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <path
+     id="path1"
+     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#000000;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 8 1.125 C 6.7270855 1.125 5.6373459 1.9699039 5.2636719 3.125 L 4 3.125 A 0.875 0.875 0 0 0 3.125 4 A 0.875 0.875 0 0 0 4 4.875 L 5.125 4.875 L 5.125 7.125 L 4 7.125 A 0.875 0.875 0 0 0 3.125 8 A 0.875 0.875 0 0 0 4 8.875 L 5.125 8.875 L 5.125 11.125 L 4 11.125 A 0.875 0.875 0 0 0 3.125 12 A 0.875 0.875 0 0 0 4 12.875 L 5.125 12.875 L 5.125 15.125 L 4 15.125 A 0.875 0.875 0 0 0 3.125 16 A 0.875 0.875 0 0 0 4 16.875 L 5.125 16.875 L 5.125 19.125 L 4 19.125 A 0.875 0.875 0 0 0 3.125 20 A 0.875 0.875 0 0 0 4 20.875 L 5.2636719 20.875 C 5.6373458 22.030096 6.7270854 22.875 8 22.875 L 16 22.875 C 17.272915 22.875 18.362654 22.030096 18.736328 20.875 L 20 20.875 A 0.875 0.875 0 0 0 20.875 20 A 0.875 0.875 0 0 0 20 19.125 L 18.875 19.125 L 18.875 16.875 L 20 16.875 A 0.875 0.875 0 0 0 20.875 16 A 0.875 0.875 0 0 0 20 15.125 L 18.875 15.125 L 18.875 12.875 L 20 12.875 A 0.875 0.875 0 0 0 20.875 12 A 0.875 0.875 0 0 0 20 11.125 L 18.875 11.125 L 18.875 8.875 L 20 8.875 A 0.875 0.875 0 0 0 20.875 8 A 0.875 0.875 0 0 0 20 7.125 L 18.875 7.125 L 18.875 4.875 L 20 4.875 A 0.875 0.875 0 0 0 20.875 4 A 0.875 0.875 0 0 0 20 3.125 L 18.736328 3.125 C 18.362654 1.9699039 17.272915 1.125 16 1.125 L 14.5 1.125 C 13.744229 1.125 13.238516 1.6933536 13.089844 2.2792969 C 12.929993 2.9062508 12.492857 3.125 12 3.125 C 11.507143 3.125 11.070007 2.9062508 10.910156 2.2792969 C 10.761484 1.6933536 10.255771 1.125 9.5 1.125 L 8 1.125 z M 8 2.875 L 9.3261719 2.875 C 9.7448026 4.1262374 10.871934 4.875 12 4.875 C 13.128066 4.875 14.255197 4.1262374 14.673828 2.875 L 16 2.875 C 16.631684 2.875 17.125 3.3683156 17.125 4 L 17.125 8 L 17.125 12 L 17.125 16 L 17.125 20 C 17.125 20.631684 16.631684 21.125 16 21.125 L 8 21.125 C 7.3683156 21.125 6.875 20.631684 6.875 20 L 6.875 16 L 6.875 12 L 6.875 8 L 6.875 4 C 6.875 3.3683156 7.3683156 2.875 8 2.875 z " />
+</svg>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   stroke="currentColor"
+   stroke-width="1.125"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   version="1.1"
+   id="svg2"
+   sodipodi:docname=".tmp_pill-bottle.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <path
+     id="path1"
+     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#000000;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 5 1.4375 C 4.1441047 1.4375 3.4375 2.1441047 3.4375 3 L 3.4375 6 C 3.4375 6.8558953 4.1441047 7.5625 5 7.5625 L 5.4375 7.5625 L 5.4375 20 C 5.4375 21.408567 6.5914329 22.5625 8 22.5625 L 16 22.5625 C 17.408567 22.5625 18.5625 21.408567 18.5625 20 L 18.5625 7.5625 L 19 7.5625 C 19.855895 7.5625 20.5625 6.8558953 20.5625 6 L 20.5625 3 C 20.5625 2.1441047 19.855895 1.4375 19 1.4375 L 5 1.4375 z M 5 2.5625 L 19 2.5625 C 19.252105 2.5625 19.4375 2.7478953 19.4375 3 L 19.4375 6 C 19.4375 6.2521047 19.252105 6.4375 19 6.4375 L 18 6.4375 L 6 6.4375 L 5 6.4375 C 4.7478953 6.4375 4.5625 6.2521047 4.5625 6 L 4.5625 3 C 4.5625 2.7478953 4.7478953 2.5625 5 2.5625 z M 6.5625 7.5625 L 17.4375 7.5625 L 17.4375 10.4375 L 14 10.4375 C 13.143718 10.4375 12.4375 11.143718 12.4375 12 L 12.4375 17 C 12.4375 17.856282 13.143718 18.5625 14 18.5625 L 17.4375 18.5625 L 17.4375 20 C 17.4375 20.800572 16.800572 21.4375 16 21.4375 L 8 21.4375 C 7.1994281 21.4375 6.5625 20.800572 6.5625 20 L 6.5625 7.5625 z M 14 11.5625 L 17.4375 11.5625 L 17.4375 17.4375 L 14 17.4375 C 13.751713 17.4375 13.5625 17.248287 13.5625 17 L 13.5625 12 C 13.5625 11.751713 13.751713 11.5625 14 11.5625 z " />
+</svg>

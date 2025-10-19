@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   stroke="currentColor"
+   stroke-width="1.75"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname=".tmp_headphones.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <path
+     id="path1"
+     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#000000;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 12 2.125 C 6.5565531 2.125 2.125 6.5565491 2.125 12 L 2.125 14 L 2.125 19 C 2.125 20.577455 3.4225454 21.875 5 21.875 L 6 21.875 C 7.5774546 21.875 8.875 20.577455 8.875 19 L 8.875 16 C 8.875 14.422545 7.5774546 13.125 6 13.125 L 3.875 13.125 L 3.875 12 C 3.875 7.5023187 7.5023216 3.875 12 3.875 C 16.497678 3.875 20.125 7.5023187 20.125 12 L 20.125 13.125 L 18 13.125 C 16.422545 13.125 15.125 14.422545 15.125 16 L 15.125 19 C 15.125 20.577455 16.422545 21.875 18 21.875 L 19 21.875 C 20.577455 21.875 21.875 20.577455 21.875 19 L 21.875 14 L 21.875 12 C 21.875 6.5565491 17.443447 2.125 12 2.125 z M 3.875 14.875 L 6 14.875 C 6.6316844 14.875 7.125 15.368316 7.125 16 L 7.125 19 C 7.125 19.631684 6.6316844 20.125 6 20.125 L 5 20.125 C 4.3683156 20.125 3.875 19.631684 3.875 19 L 3.875 14.875 z M 18 14.875 L 20.125 14.875 L 20.125 19 C 20.125 19.631684 19.631684 20.125 19 20.125 L 18 20.125 C 17.368316 20.125 16.875 19.631684 16.875 19 L 16.875 16 C 16.875 15.368316 17.368316 14.875 18 14.875 z " />
+</svg>

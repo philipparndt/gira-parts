@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   stroke="currentColor"
+   stroke-width="1.75"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname=".tmp_circle-parking.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <path
+     id="circle1"
+     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#000000;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 12 1.125 C 6.0042674 1.125 1.125 6.0042674 1.125 12 C 1.125 17.995733 6.0042674 22.875 12 22.875 C 17.995733 22.875 22.875 17.995733 22.875 12 C 22.875 6.0042674 17.995733 1.125 12 1.125 z M 12 2.875 C 17.049962 2.875 21.125 6.9500376 21.125 12 C 21.125 17.049962 17.049962 21.125 12 21.125 C 6.9500376 21.125 2.875 17.049962 2.875 12 C 2.875 6.9500376 6.9500376 2.875 12 2.875 z M 9 6.125 A 0.8750875 0.8750875 0 0 0 8.125 7 L 8.125 13 L 8.125 17 A 0.875 0.875 0 0 0 9 17.875 A 0.875 0.875 0 0 0 9.875 17 L 9.875 13.875 L 13 13.875 C 14.21875 13.875 15.243933 13.38744 15.904297 12.644531 C 16.56466 11.901622 16.875 10.944444 16.875 10 C 16.875 9.0555556 16.56466 8.0983779 15.904297 7.3554688 C 15.243933 6.6125596 14.21875 6.125 13 6.125 L 9 6.125 z M 9.875 7.875 L 13 7.875 C 13.781249 7.875 14.256067 8.1374403 14.595703 8.5195312 C 14.935339 8.9016221 15.125 9.4444444 15.125 10 C 15.125 10.555556 14.935339 11.098378 14.595703 11.480469 C 14.256067 11.86256 13.781249 12.125 13 12.125 L 9.875 12.125 L 9.875 7.875 z " />
+</svg>

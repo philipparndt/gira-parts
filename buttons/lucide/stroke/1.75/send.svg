@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   stroke="currentColor"
+   stroke-width="1.75"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   version="1.1"
+   id="svg2"
+   sodipodi:docname=".tmp_send.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <path
+     id="path1"
+     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#000000;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 21.478516 1.1289062 C 21.335132 1.1274925 21.188273 1.1509155 21.042969 1.203125 L 21.041016 1.203125 L 2.0546875 7.6992188 C 1.4926903 7.8919469 1.1383282 8.4444888 1.125 8.9648438 C 1.1116718 9.4851985 1.4368875 10.054144 1.9882812 10.275391 L 9.9179688 13.457031 C 10.060396 13.514055 10.188642 13.59913 10.294922 13.705078 C 10.401202 13.811026 10.485515 13.937848 10.542969 14.080078 L 13.724609 22.011719 C 13.945856 22.563113 14.514801 22.888328 15.035156 22.875 C 15.555511 22.86167 16.108053 22.50731 16.300781 21.945312 L 22.796875 2.9589844 L 22.796875 2.9570312 C 22.9361 2.5695513 22.869701 2.1733039 22.677734 1.8496094 A 0.875 0.875 0 0 0 22.472656 1.5273438 A 0.875 0.875 0 0 0 22.150391 1.3222656 C 21.948082 1.2022862 21.717489 1.1312624 21.478516 1.1289062 z M 19.013672 3.7480469 L 10.816406 11.945312 C 10.736331 11.904046 10.654612 11.865831 10.570312 11.832031 L 10.568359 11.832031 L 3.578125 9.0273438 L 19.013672 3.7480469 z M 20.251953 4.9863281 L 14.970703 20.423828 L 12.167969 13.427734 C 12.134257 13.34397 12.097724 13.261223 12.056641 13.181641 L 20.251953 4.9863281 z " />
+</svg>
