@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   stroke="currentColor"
+   stroke-width="1"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname=".tmp_circle-pound-sterling.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <path
+     id="path1"
+     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#000000;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 12 1.5 C 6.2069324 1.5 1.5 6.2069324 1.5 12 C 1.5 17.793068 6.2069324 22.5 12 22.5 C 17.793068 22.5 22.5 17.793068 22.5 12 C 22.5 6.2069324 17.793068 1.5 12 1.5 z M 12 2.5 C 17.252627 2.5 21.5 6.7473726 21.5 12 C 21.5 17.252627 17.252627 21.5 12 21.5 C 6.7473726 21.5 2.5 17.252627 2.5 12 C 2.5 6.7473726 6.7473726 2.5 12 2.5 z M 12.5 6.5 C 11.763889 6.5 11.02106 6.7436503 10.449219 7.2519531 C 9.8773776 7.760256 9.5 8.541667 9.5 9.5 L 9.5 11.5 L 8 11.5 A 0.5 0.5 0 0 0 7.5 12 A 0.5 0.5 0 0 0 8 12.5 L 9.5 12.5 L 9.5 15.5 L 8 15.5 A 0.5 0.5 0 0 0 7.5 16 A 0.5 0.5 0 0 0 8 16.5 L 15 16.5 A 0.5 0.5 0 0 0 15.5 16 A 0.5 0.5 0 0 0 15 15.5 L 10.5 15.5 L 10.5 12.5 L 12 12.5 A 0.5 0.5 0 0 0 12.5 12 A 0.5 0.5 0 0 0 12 11.5 L 10.5 11.5 L 10.5 9.5 C 10.5 8.7916671 10.747622 8.323077 11.113281 7.9980469 C 11.47894 7.6730168 11.986111 7.5 12.5 7.5 C 13.013889 7.5 13.52106 7.6730168 13.886719 7.9980469 C 14.252378 8.323077 14.5 8.7916671 14.5 9.5 A 0.5 0.5 0 0 0 15 10 A 0.5 0.5 0 0 0 15.5 9.5 C 15.5 8.541667 15.122622 7.760256 14.550781 7.2519531 C 13.97894 6.7436503 13.236111 6.5 12.5 6.5 z " />
+</svg>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   stroke="currentColor"
+   stroke-width="1"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname=".tmp_philippine-peso.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <path
+     id="path1"
+     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#000000;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 8 2.5 C 7.1774952 2.5 6.5 3.1774952 6.5 4 L 6.5 6.5 L 4 6.5 A 0.5 0.5 0 0 0 3.5 7 A 0.5 0.5 0 0 0 4 7.5 L 6.5 7.5 L 6.5 10.5 L 4 10.5 A 0.5 0.5 0 0 0 3.5 11 A 0.5 0.5 0 0 0 4 11.5 L 6.5 11.5 L 6.5 15 L 6.5 21 A 0.5 0.5 0 0 0 7 21.5 A 0.5 0.5 0 0 0 7.5 21 L 7.5 15.5 L 12 15.5 C 14.698538 15.5 17.018455 13.84676 18 11.5 L 20 11.5 A 0.5 0.5 0 0 0 20.5 11 A 0.5 0.5 0 0 0 20 10.5 L 18.326172 10.5 C 18.440394 10.018324 18.5 9.5160864 18.5 9 C 18.5 8.4839136 18.440394 7.9816758 18.326172 7.5 L 20 7.5 A 0.5 0.5 0 0 0 20.5 7 A 0.5 0.5 0 0 0 20 6.5 L 18 6.5 C 17.018455 4.15324 14.698538 2.5 12 2.5 L 8 2.5 z M 8 3.5 L 12 3.5 C 14.142556 3.5 15.993837 4.7174166 16.902344 6.5 L 7.5 6.5 L 7.5 4 C 7.5 3.7179353 7.7179353 3.5 8 3.5 z M 7.5 7.5 L 17.294922 7.5 C 17.42915 7.9766216 17.5 8.4797345 17.5 9 C 17.5 9.5202655 17.42915 10.023378 17.294922 10.5 L 7.5 10.5 L 7.5 7.5 z M 7.5 11.5 L 16.902344 11.5 C 15.993837 13.282583 14.142556 14.5 12 14.5 L 7.5 14.5 L 7.5 11.5 z " />
+</svg>

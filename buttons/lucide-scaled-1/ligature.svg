@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   stroke="currentColor"
+   stroke-width="1"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname=".tmp_ligature.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs5" />
+  <sodipodi:namedview
+     id="namedview5"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <path
+     id="path1"
+     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#000000;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 12.226562 3.5019531 C 11.756264 3.4814623 11.286201 3.5336473 10.835938 3.6542969 C 9.0348811 4.1368949 7.5000997 5.7332536 7.5 8 L 7.5 11.5 L 6 11.5 A 0.5 0.5 0 0 0 5.5 12 A 0.5 0.5 0 0 0 6 12.5 L 7.5 12.5 L 7.5 19.5 L 6 19.5 A 0.5 0.5 0 0 0 5.5 20 A 0.5 0.5 0 0 0 6 20.5 L 8 20.5 L 10 20.5 A 0.5 0.5 0 0 0 10.5 20 A 0.5 0.5 0 0 0 10 19.5 L 8.5 19.5 L 8.5 12.5 L 10 12.5 A 0.5 0.5 0 0 0 10.5 12 A 0.5 0.5 0 0 0 10 11.5 L 8.5 11.5 L 8.5 8 C 8.5000803 6.1745369 9.6744221 4.9994536 11.09375 4.6191406 C 12.513078 4.2388277 14.118438 4.669149 15.03125 6.25 A 0.5 0.5 0 0 0 15.714844 6.4335938 A 0.5 0.5 0 0 0 15.896484 5.75 C 15.04638 4.2777482 13.637457 3.5634256 12.226562 3.5019531 z M 14 11.5 A 0.5 0.5 0 0 0 13.5 12 A 0.5 0.5 0 0 0 14 12.5 L 15.5 12.5 L 15.5 19.5 L 14 19.5 A 0.5 0.5 0 0 0 13.5 20 A 0.5 0.5 0 0 0 14 20.5 L 18 20.5 A 0.5 0.5 0 0 0 18.5 20 A 0.5 0.5 0 0 0 18 19.5 L 16.5 19.5 L 16.5 12 A 0.50005 0.50005 0 0 0 16 11.5 L 14 11.5 z " />
+</svg>
