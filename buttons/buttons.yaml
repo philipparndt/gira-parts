@@ -1,0 +1,75 @@
+# Simple example: Customizable text plate
+# This shows basic config file usage
+
+output: buttons.3mf
+build_plate: "Supertack Plate"
+
+objects:
+  - name: radio
+    config:
+      - button_icon_cfg.scad: |
+          function top() = "./lucide/filled/1.5/play.svg";
+          function bottom() = "./lucide/stroke/1.5/square.svg";
+          function rotate() = false;
+
+    parts:
+      - name: button
+        file: image_button.scad
+        filament: 1
+      
+      - name: icons
+        file: button_icons.scad
+        filament: 2
+
+  - name: radio_color
+    config:
+      - button_icon_cfg.scad: |
+          function top() = "./lucide/filled/1.5/play.svg";
+          function bottom() = "./lucide/stroke/1.5/square.svg";
+          function rotate() = false;
+
+    parts:
+      - name: button
+        file: image_button.scad
+        filament: 1
+
+      - name: icons
+        file: button_icon_top.scad
+        filament: 2
+
+      - name: icons
+        file: button_icon_bottom.scad
+        filament: 3
+
+
+  - name: tree
+    config:
+      - button_icon_cfg.scad: |
+          function top() = "./lucide/filled/1.5/tree-pine.svg";
+          function bottom() = "./lucide/stroke/1.5/tree-pine.svg";
+          function rotate() = false;
+
+    parts:
+      - name: button
+        file: image_button.scad
+        filament: 1
+
+      - name: icons
+        file: button_icons.scad
+        filament: 2
+
+  - name: blinds
+    config:
+      - button_icon_cfg.scad: |
+          function top() = "./lucide/stroke/1.5/arrow-up.svg";
+          function bottom() = "./lucide/stroke/1.5/panel-top-bottom-dashed.svg";
+          function rotate() = false;
+
+    parts:
+      - name: button
+        file: image_button.scad
+        filament: 1
+
+      - name: icons
+        file: button_icons.scad
+        filament: 2
