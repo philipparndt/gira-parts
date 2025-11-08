@@ -2,7 +2,13 @@ use <./button.scad>
 use <./button_icon_cfg.scad>
 
 difference() {
-    button();
+    if (right()) {
+        translate([0, 26.9, 0])
+        rotate([0,0,180])
+        button();
+    } else {
+        button();
+    }
 
     *translate([0, 26.4/2, 0.3])
         cube([54.5, 26.4, 0.1], center = true);

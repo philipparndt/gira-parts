@@ -10,7 +10,7 @@ objects:
       - button_icon_cfg.scad: |
           function top() = "./lucide/filled/1.5/play.svg";
           function bottom() = "./lucide/stroke/1.5/square.svg";
-          function rotate() = false;
+          function right() = false;
 
     parts:
       - name: button
@@ -21,25 +21,25 @@ objects:
         file: button_icons.scad
         filament: 2
 
-  - name: radio_color
-    config:
-      - button_icon_cfg.scad: |
-          function top() = "./lucide/filled/1.5/play.svg";
-          function bottom() = "./lucide/stroke/1.5/square.svg";
-          function rotate() = false;
-
-    parts:
-      - name: button
-        file: image_button.scad
-        filament: 1
-
-      - name: icons
-        file: button_icon_top.scad
-        filament: 2
-
-      - name: icons
-        file: button_icon_bottom.scad
-        filament: 3
+#  - name: radio_color
+#    config:
+#      - button_icon_cfg.scad: |
+#          function top() = "./lucide/filled/1.5/play.svg";
+#          function bottom() = "./lucide/stroke/1.5/square.svg";
+#          function right() = true;
+#
+#    parts:
+#      - name: button
+#        file: image_button.scad
+#        filament: 1
+#
+#      - name: icons
+#        file: button_icon_top.scad
+#        filament: 2
+#
+#      - name: icons
+#        file: button_icon_bottom.scad
+#        filament: 3
 
 
   - name: tree
@@ -63,7 +63,7 @@ objects:
       - button_icon_cfg.scad: |
           function top() = "./lucide/stroke/1.5/arrow-up.svg";
           function bottom() = "./lucide/stroke/1.5/panel-top-bottom-dashed.svg";
-          function rotate() = false;
+          function right() = false;
 
     parts:
       - name: button
@@ -73,3 +73,26 @@ objects:
       - name: icons
         file: button_icons.scad
         filament: 2
+
+
+  - name: dinner
+    config:
+      - button_icon_cfg.scad: |
+          function top() = "./lucide/stroke/1.5/utensils.svg";
+          function bottom() = "";
+          function right() = false;
+
+    parts:
+      - name: button
+        file: image_button.scad
+        filament: 1
+
+      - name: icons
+        file: button_icons.scad
+        filament: 2
+
+  - name: empty
+    parts:
+      - name: button
+        file: button.scad
+        filament: 1

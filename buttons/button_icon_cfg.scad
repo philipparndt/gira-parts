@@ -1,3 +1,3 @@
-function top() = "./lucide/stroke/1.5/arrow-up.svg";
-function bottom() = "./lucide/stroke/1.5/panel-top-bottom-dashed.svg";
-function rotate() = false;
+function top() = "./lucide/stroke/1.5/utensils.svg";
+function bottom() = "";
+function right() = false;
