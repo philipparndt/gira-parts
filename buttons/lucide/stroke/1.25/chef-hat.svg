@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   stroke="currentColor"
+   stroke-width="1.25"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   version="1.1"
+   id="svg2"
+   sodipodi:docname=".tmp_chef-hat.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <path
+     id="path1"
+     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#000000;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 12 2.3710938 C 10.032347 2.3710938 8.0761516 3.435021 7.0449219 5.4316406 C 4.7549578 5.3996516 3.0631826 6.9032811 2.5449219 8.7460938 C 1.9933418 10.707382 2.7165105 13.078641 5.0019531 14.171875 C 5.238924 14.286036 5.375 14.48118 5.375 14.648438 L 5.375 17 L 5.375 20 C 5.375 20.89006 6.1099402 21.625 7 21.625 L 17 21.625 C 17.89006 21.625 18.625 20.89006 18.625 20 L 18.625 17 L 18.625 14.650391 C 18.625 14.481501 18.762144 14.284948 18.998047 14.171875 C 21.284965 13.079356 22.008718 10.708019 21.457031 8.7460938 C 20.938589 6.9023943 19.246442 5.3982036 16.955078 5.4316406 C 15.923848 3.435021 13.967653 2.3710936 12 2.3710938 z M 12 3.6210938 C 13.637377 3.6210938 15.250717 4.4804993 16.019531 6.2675781 A 0.6250625 0.6250625 0 0 0 16.658203 6.6425781 C 18.602992 6.4413098 19.842246 7.6219791 20.253906 9.0859375 C 20.665566 10.549896 20.221696 12.203104 18.457031 13.044922 C 17.870934 13.325849 17.375 13.90528 17.375 14.650391 L 17.375 16.375 L 6.625 16.375 L 6.625 14.648438 C 6.625 13.903695 6.129951 13.326761 5.5449219 13.044922 A 0.6250625 0.6250625 0 0 0 5.5429688 13.044922 C 3.7802747 12.202445 3.3365521 10.549116 3.7480469 9.0859375 C 4.1595417 7.6227592 5.4003195 6.4427691 7.34375 6.6425781 A 0.6250625 0.6250625 0 0 0 7.9804688 6.2675781 C 8.7492836 4.4804993 10.362623 3.6210938 12 3.6210938 z M 6.625 17.625 L 17.375 17.625 L 17.375 20 C 17.375 20.21451 17.21451 20.375 17 20.375 L 7 20.375 C 6.7854903 20.375 6.625 20.21451 6.625 20 L 6.625 17.625 z " />
+</svg>

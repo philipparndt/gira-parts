@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   stroke="currentColor"
+   stroke-width="1.75"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname=".tmp_wine.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <path
+     id="path1"
+     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#000000;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 9 1.125 A 0.8750875 0.8750875 0 0 0 8.1816406 1.6933594 C 6.6965701 5.6535475 6.1514871 7.7779656 6.1328125 9.8867188 A 0.875 0.875 0 0 0 6.125 10 C 6.125 12.9371 8.3026703 15.385522 11.125 15.810547 L 11.125 21.125 L 8 21.125 A 0.875 0.875 0 0 0 7.125 22 A 0.875 0.875 0 0 0 8 22.875 L 16 22.875 A 0.875 0.875 0 0 0 16.875 22 A 0.875 0.875 0 0 0 16 21.125 L 12.875 21.125 L 12.875 15.810547 C 15.69733 15.385522 17.875 12.9371 17.875 10 A 0.875 0.875 0 0 0 17.867188 9.8867188 C 17.848513 7.7779656 17.30343 5.6535475 15.818359 1.6933594 A 0.8750875 0.8750875 0 0 0 15 1.125 L 9 1.125 z M 9.6308594 2.875 L 14.369141 2.875 C 15.4399 5.7948207 15.948238 7.5958127 16.085938 9.125 L 7.9140625 9.125 C 8.0517623 7.5958127 8.5600991 5.7948207 9.6308594 2.875 z M 7.9667969 10.875 L 16.033203 10.875 C 15.634979 12.739163 13.988033 14.125 12 14.125 C 10.011968 14.125 8.3650211 12.739163 7.9667969 10.875 z " />
+</svg>

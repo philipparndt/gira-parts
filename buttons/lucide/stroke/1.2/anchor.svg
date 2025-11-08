@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   stroke="currentColor"
+   stroke-width="1.2"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   version="1.1"
+   id="svg2"
+   sodipodi:docname=".tmp_anchor.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <path
+     id="path1"
+     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#000000;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 12 1.4003906 C 10.018882 1.4003906 8.4003906 3.0188817 8.4003906 5 C 8.4003906 6.7769385 9.7024604 8.2615634 11.400391 8.5488281 L 11.400391 21.380859 C 6.6992436 21.082894 3.0323211 17.303722 2.7207031 12.599609 L 5 12.599609 A 0.60000002 0.60000002 0 0 0 5.5996094 12 A 0.60000002 0.60000002 0 0 0 5 11.400391 L 2 11.400391 A 0.60006002 0.60006002 0 0 0 1.4003906 12 C 1.4003906 17.847115 6.1528891 22.599609 12 22.599609 C 17.847111 22.599609 22.599609 17.847115 22.599609 12 A 0.60006002 0.60006002 0 0 0 22 11.400391 L 19 11.400391 A 0.60000002 0.60000002 0 0 0 18.400391 12 A 0.60000002 0.60000002 0 0 0 19 12.599609 L 21.279297 12.599609 C 20.967678 17.303722 17.300756 21.082894 12.599609 21.380859 L 12.599609 8.5488281 C 14.29754 8.2615634 15.599609 6.7769385 15.599609 5 C 15.599609 3.0188817 13.981118 1.4003906 12 1.4003906 z M 12 2.5996094 C 13.33259 2.5996094 14.400391 3.6674098 14.400391 5 C 14.400391 6.3325902 13.33259 7.4003906 12 7.4003906 C 10.66741 7.4003906 9.5996094 6.3325902 9.5996094 5 C 9.5996094 3.6674098 10.66741 2.5996094 12 2.5996094 z " />
+</svg>

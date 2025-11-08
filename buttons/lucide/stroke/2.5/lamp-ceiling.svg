@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   stroke="currentColor"
+   stroke-width="2.5"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname=".tmp_lamp-ceiling.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <path
+     id="path1"
+     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#000000;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 12 0.75 A 1.25 1.25 0 0 0 10.75 2 L 10.75 5.75 L 7.0019531 5.75 L 7 5.75 C 6.1034638 5.7499822 5.2849202 6.2891612 4.9316406 7.1132812 L 1.9316406 14.113281 C 1.3130012 15.556421 2.4302357 17.249959 4 17.25 L 7.7636719 17.25 C 7.9101992 19.385607 9.696137 21.246094 12 21.246094 C 14.303863 21.246094 16.089801 19.385607 16.236328 17.25 L 20 17.25 C 21.569764 17.249959 22.686999 15.556421 22.068359 14.113281 L 19.068359 7.1132812 C 18.71508 6.2891612 17.896536 5.7499822 17 5.75 L 13.25 5.75 L 13.25 2 A 1.25 1.25 0 0 0 12 0.75 z M 7.1640625 8.25 L 12 8.25 L 16.835938 8.25 L 19.623047 14.75 L 14.916016 14.75 L 14.740234 14.75 L 9.2597656 14.75 L 9.0839844 14.75 L 4.3769531 14.75 L 7.1640625 8.25 z M 10.253906 17.25 L 13.746094 17.25 C 13.642593 18.082423 12.943526 18.746094 12 18.746094 C 11.056474 18.746094 10.357407 18.082423 10.253906 17.25 z " />
+</svg>

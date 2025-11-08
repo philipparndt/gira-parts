@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   stroke="currentColor"
+   stroke-width="1.125"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname=".tmp_fish-symbol.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <path
+     id="path1"
+     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#000000;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 13.326172 7.4140625 C 11.161486 7.5028739 9.2126254 8.3257395 7.5664062 9.4042969 C 6.7280689 9.9535524 5.9913932 10.580857 5.3085938 11.208984 C 3.5637124 9.4119593 2.4824219 7.7109375 2.4824219 7.7109375 A 0.5625 0.5625 0 0 0 1.7109375 7.5175781 A 0.5625 0.5625 0 0 0 1.5175781 8.2890625 C 1.5175781 8.2890625 2.641644 10.086608 4.5039062 12 C 2.6416441 13.913392 1.5175781 15.710938 1.5175781 15.710938 A 0.5625 0.5625 0 0 0 1.7109375 16.482422 A 0.5625 0.5625 0 0 0 2.4824219 16.289062 C 2.4824219 16.289062 3.5637123 14.588041 5.3085938 12.791016 C 5.9913932 13.419143 6.728069 14.046448 7.5664062 14.595703 C 9.4477995 15.82834 11.725491 16.72766 14.267578 16.578125 C 16.809665 16.42859 19.57612 15.220755 22.398438 12.398438 A 0.56255625 0.56255625 0 0 0 22.398438 11.601562 C 19.57612 8.7792443 16.809665 7.5714095 14.267578 7.421875 C 13.949817 7.4031832 13.635413 7.4013752 13.326172 7.4140625 z M 13.371094 8.5390625 C 13.644433 8.5278851 13.921276 8.5304106 14.201172 8.546875 C 16.285337 8.6694727 18.599259 9.715163 21.066406 12 C 18.599259 14.284837 16.285333 15.330527 14.201172 15.453125 C 11.962009 15.58484 9.9272004 14.79666 8.1835938 13.654297 C 7.4214578 13.154966 6.7498045 12.578084 6.1191406 12 C 6.7498045 11.421916 7.4214578 10.845034 8.1835938 10.345703 C 9.7092496 9.3461356 11.457716 8.6173043 13.371094 8.5390625 z " />
+</svg>

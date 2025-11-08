@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   stroke="currentColor"
+   stroke-width="1.75"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname=".tmp_thermometer.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <path
+     id="path1"
+     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#000000;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 12 1.125 C 11.305556 1.125 10.598378 1.3520063 10.042969 1.8457031 C 9.4875594 2.3394 9.125 3.1145835 9.125 4 L 9.125 14.146484 C 7.407986 15.421024 6.8129848 17.482944 7.2910156 19.265625 C 7.812317 21.209672 9.5681832 22.878906 12 22.878906 C 14.431817 22.878906 16.187683 21.209672 16.708984 19.265625 C 17.187015 17.482944 16.592014 15.421024 14.875 14.146484 L 14.875 4 C 14.875 3.1145835 14.51244 2.3394 13.957031 1.8457031 C 13.401622 1.3520063 12.694444 1.125 12 1.125 z M 12 2.875 C 12.305556 2.875 12.598378 2.9813273 12.792969 3.1542969 C 12.98756 3.3272664 13.125 3.5520837 13.125 4 L 13.125 14.539062 A 0.8750875 0.8750875 0 0 0 13.5625 15.296875 C 15.00078 16.127266 15.35973 17.53654 15.017578 18.8125 C 14.675426 20.08846 13.659531 21.128906 12 21.128906 C 10.340469 21.128906 9.3245739 20.08846 8.9824219 18.8125 C 8.6402698 17.53654 8.9992203 16.127266 10.4375 15.296875 A 0.8750875 0.8750875 0 0 0 10.875 14.539062 L 10.875 4 C 10.875 3.5520837 11.01244 3.3272664 11.207031 3.1542969 C 11.401622 2.9813273 11.694444 2.875 12 2.875 z " />
+</svg>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   stroke="currentColor"
+   stroke-width="2.5"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname=".tmp_music-3.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <path
+     id="circle1"
+     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#000000;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 16 0.75 A 1.25 1.25 0 0 0 14.75 2 L 14.75 13.535156 C 13.948668 13.038199 13.005911 12.75 12 12.75 C 9.1153109 12.75 6.75 15.115311 6.75 18 C 6.75 20.884689 9.1153109 23.25 12 23.25 C 14.884689 23.25 17.25 20.884689 17.25 18 L 17.25 2 A 1.25 1.25 0 0 0 16 0.75 z M 12 15.25 C 13.533589 15.25 14.75 16.466411 14.75 18 C 14.75 19.533589 13.533589 20.75 12 20.75 C 10.466411 20.75 9.25 19.533589 9.25 18 C 9.25 16.466411 10.466411 15.25 12 15.25 z " />
+</svg>

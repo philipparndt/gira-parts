@@ -173,3 +173,4 @@ module button() {
 
 }
 
+button();

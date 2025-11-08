@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   stroke="currentColor"
+   stroke-width="1.75"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname=".tmp_radio-receiver.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <path
+     id="path1"
+     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#000000;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 4 7.125 C 2.4223851 7.125 1.125 8.4223851 1.125 10 L 1.125 14 C 1.125 15.577615 2.4223851 16.875 4 16.875 L 4.125 16.875 L 4.125 18 A 0.875 0.875 0 0 0 5 18.875 A 0.875 0.875 0 0 0 5.875 18 L 5.875 16.875 L 18.125 16.875 L 18.125 18 A 0.875 0.875 0 0 0 19 18.875 A 0.875 0.875 0 0 0 19.875 18 L 19.875 16.875 L 20 16.875 C 21.577615 16.875 22.875 15.577615 22.875 14 L 22.875 10 C 22.875 8.4223851 21.577615 7.125 20 7.125 L 4 7.125 z M 4 8.875 L 20 8.875 C 20.638385 8.875 21.125 9.3616149 21.125 10 L 21.125 14 C 21.125 14.638385 20.638385 15.125 20 15.125 L 4 15.125 C 3.3616149 15.125 2.875 14.638385 2.875 14 L 2.875 10 C 2.875 9.3616149 3.3616149 8.875 4 8.875 z M 18 11.125 A 0.875 0.875 0 0 0 17.125 12 A 0.875 0.875 0 0 0 18 12.875 L 18.009766 12.875 A 0.875 0.875 0 0 0 18.884766 12 A 0.875 0.875 0 0 0 18.009766 11.125 L 18 11.125 z " />
+</svg>

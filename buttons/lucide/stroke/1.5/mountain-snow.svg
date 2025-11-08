@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   stroke="currentColor"
+   stroke-width="1.125"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   version="1.1"
+   id="svg2"
+   sodipodi:docname=".tmp_mountain-snow.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <path
+     id="path1"
+     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#000000;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 7.9609375 2.4394531 A 0.56255625 0.56255625 0 0 0 7.4667969 2.8222656 L 1.4667969 20.822266 A 0.56255625 0.56255625 0 0 0 2 21.5625 L 22 21.5625 A 0.56255625 0.56255625 0 0 0 22.533203 20.822266 L 20.767578 15.527344 A 0.5625 0.5625 0 0 0 20.763672 15.513672 L 20.759766 15.5 A 0.5625 0.5625 0 0 0 20.757812 15.494141 L 17.533203 5.8222656 A 0.56255625 0.56255625 0 0 0 16.601562 5.6015625 L 12.154297 10.048828 L 8.5039062 2.7480469 A 0.56255625 0.56255625 0 0 0 7.9609375 2.4394531 z M 8.1035156 4.4667969 L 11.496094 11.251953 A 0.56255625 0.56255625 0 0 0 12.398438 11.398438 L 16.753906 7.0429688 L 19.556641 15.449219 C 17.102866 16.923266 14.802137 16.795453 12.324219 15.041016 C 10.947511 14.068913 9.5231135 13.542344 8.0957031 13.466797 C 7.0276297 13.410268 5.9580801 13.606216 4.90625 14.056641 L 8.1035156 4.4667969 z M 7.5976562 14.542969 C 8.9392892 14.50176 10.277077 14.97135 11.675781 15.958984 C 14.350907 17.853052 17.211289 18.047744 19.919922 16.537109 L 21.220703 20.4375 L 2.7792969 20.4375 L 4.3984375 15.580078 A 0.5625 0.5625 0 0 0 4.4296875 15.5625 C 5.508355 14.916123 6.554164 14.57502 7.5976562 14.542969 z " />
+</svg>

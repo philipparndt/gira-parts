@@ -3,8 +3,20 @@
 # Script to render radio button OpenSCAD files to STL and open both in BambuStudio
 # Usage: ./render_radio_buttons.sh
 
+# Check for uncommitted changes
+if [ -n "$(git status --porcelain)" ]; then
+    echo "Error: There are uncommitted changes in the repository!"
+    echo "Please commit or stash your changes before rendering."
+    git status --short
+    exit 1
+fi
+
+# Get current git hash (first 7 digits)
+GIT_HASH=$(git rev-parse --short=7 HEAD)
+echo "Using git hash: $GIT_HASH"
+
 # Define the files to render
-SCAD_FILES=("radio_button_icons1.scad" "radio_button_icons2.scad" "radio_button.scad")
+SCAD_FILES=("radio_button_icons.scad" "radio_button.scad")
 TMP_DIR="tmp"
 STL_FILES=()
 
@@ -23,7 +35,7 @@ for SCAD_FILE in "${SCAD_FILES[@]}"; do
 
     # Get filename without extension
     FILENAME=$(basename "$SCAD_FILE" .scad)
-    STL_FILE="${TMP_DIR}/${FILENAME}.stl"
+    STL_FILE="${TMP_DIR}/${FILENAME}_${GIT_HASH}.stl"
     
     echo "Rendering $SCAD_FILE to $STL_FILE..."
     

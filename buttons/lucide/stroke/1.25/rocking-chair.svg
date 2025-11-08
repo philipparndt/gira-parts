@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   stroke="currentColor"
+   stroke-width="1.25"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   version="1.1"
+   id="svg2"
+   sodipodi:docname=".tmp_rocking-chair.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <path
+     id="polyline1"
+     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#000000;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 3.4902344 1.375 A 0.625 0.625 0 0 0 3.328125 1.3984375 A 0.625 0.625 0 0 0 2.8984375 2.171875 L 5.8984375 12.671875 A 0.6250625 0.6250625 0 0 0 6.5 13.125 L 8.4589844 13.125 L 5.2109375 19.214844 C 4.4971264 18.744907 3.8205862 18.193733 3.1953125 17.560547 A 0.625 0.625 0 0 0 2.7539062 17.375 A 0.625 0.625 0 0 0 2.3105469 17.554688 A 0.625 0.625 0 0 0 2.3046875 18.439453 C 7.6336869 23.835886 16.366314 23.835886 21.695312 18.439453 A 0.625 0.625 0 0 0 21.689453 17.554688 A 0.625 0.625 0 0 0 20.804688 17.560547 C 20.186958 18.186093 19.51875 18.731053 18.814453 19.197266 L 15.980469 13.125 L 18 13.125 A 0.625 0.625 0 0 0 18.625 12.5 A 0.625 0.625 0 0 0 18 11.875 L 6.9707031 11.875 L 4.1015625 1.828125 A 0.625 0.625 0 0 0 3.4902344 1.375 z M 9.875 13.125 L 14.601562 13.125 L 17.734375 19.835938 C 14.159858 21.708632 9.866674 21.714247 6.2890625 19.849609 L 9.875 13.125 z " />
+</svg>

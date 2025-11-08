@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   stroke="currentColor"
+   stroke-width="1.75"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname=".tmp_list.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <path
+     id="path1"
+     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#000000;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 3 4.125 A 0.875 0.875 0 0 0 2.125 5 A 0.875 0.875 0 0 0 3 5.875 L 3.0097656 5.875 A 0.875 0.875 0 0 0 3.8847656 5 A 0.875 0.875 0 0 0 3.0097656 4.125 L 3 4.125 z M 8 4.125 A 0.875 0.875 0 0 0 7.125 5 A 0.875 0.875 0 0 0 8 5.875 L 21 5.875 A 0.875 0.875 0 0 0 21.875 5 A 0.875 0.875 0 0 0 21 4.125 L 8 4.125 z M 3 11.125 A 0.875 0.875 0 0 0 2.125 12 A 0.875 0.875 0 0 0 3 12.875 L 3.0097656 12.875 A 0.875 0.875 0 0 0 3.8847656 12 A 0.875 0.875 0 0 0 3.0097656 11.125 L 3 11.125 z M 8 11.125 A 0.875 0.875 0 0 0 7.125 12 A 0.875 0.875 0 0 0 8 12.875 L 21 12.875 A 0.875 0.875 0 0 0 21.875 12 A 0.875 0.875 0 0 0 21 11.125 L 8 11.125 z M 3 18.125 A 0.875 0.875 0 0 0 2.125 19 A 0.875 0.875 0 0 0 3 19.875 L 3.0097656 19.875 A 0.875 0.875 0 0 0 3.8847656 19 A 0.875 0.875 0 0 0 3.0097656 18.125 L 3 18.125 z M 8 18.125 A 0.875 0.875 0 0 0 7.125 19 A 0.875 0.875 0 0 0 8 19.875 L 21 19.875 A 0.875 0.875 0 0 0 21.875 19 A 0.875 0.875 0 0 0 21 18.125 L 8 18.125 z " />
+</svg>

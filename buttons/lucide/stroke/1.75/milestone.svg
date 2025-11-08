@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   stroke="currentColor"
+   stroke-width="1.75"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname=".tmp_milestone.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <path
+     id="path1"
+     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#000000;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 12 2.125 A 0.875 0.875 0 0 0 11.125 3 L 11.125 5.125 L 4 5.125 C 2.9748301 5.125 2.125 5.9748301 2.125 7 L 2.125 12 C 2.125 13.02517 2.9748301 13.875 4 13.875 L 11.125 13.875 L 11.125 21 A 0.875 0.875 0 0 0 12 21.875 A 0.875 0.875 0 0 0 12.875 21 L 12.875 13.875 L 17 13.875 C 17.592798 13.875042 18.171638 13.691019 18.65625 13.349609 L 22.066406 11.042969 A 0.8750875 0.8750875 0 0 0 22.080078 11.033203 C 23.118013 10.301978 23.118013 8.6980219 22.080078 7.9667969 A 0.8750875 0.8750875 0 0 0 22.066406 7.9589844 L 18.65625 5.6503906 C 18.171638 5.3089812 17.592798 5.1249577 17 5.125 L 12.875 5.125 L 12.875 3 A 0.875 0.875 0 0 0 12 2.125 z M 4 6.875 L 12 6.875 L 17 6.875 C 17.232102 6.8749834 17.458695 6.946404 17.648438 7.0800781 A 0.8750875 0.8750875 0 0 0 17.662109 7.0898438 L 21.072266 9.3984375 C 21.165186 9.4639015 21.165186 9.538052 21.072266 9.6035156 L 17.662109 11.910156 A 0.8750875 0.8750875 0 0 0 17.648438 11.919922 C 17.458694 12.053557 17.232102 12.125017 17 12.125 L 12 12.125 L 4 12.125 C 3.9206 12.125 3.875 12.0794 3.875 12 L 3.875 7 C 3.875 6.9206 3.9206 6.875 4 6.875 z " />
+</svg>

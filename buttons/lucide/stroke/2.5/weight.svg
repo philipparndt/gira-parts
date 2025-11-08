@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   stroke="currentColor"
+   stroke-width="2.5"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname=".tmp_weight.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <path
+     id="circle1"
+     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#000000;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 12 0.75 C 9.6675956 0.75 7.75 2.6675956 7.75 5 C 7.75 5.6223882 7.886326 6.2152396 8.1308594 6.75 L 6.5 6.75 A 1.250125 1.250125 0 0 0 6.4863281 6.75 C 5.0474205 6.7649301 3.7790735 7.7374835 3.390625 9.1230469 A 1.250125 1.250125 0 0 0 3.390625 9.1269531 L 0.89453125 18.167969 A 1.250125 1.250125 0 0 0 0.890625 18.1875 C 0.37246397 20.192911 1.9056343 22.212297 3.9765625 22.25 A 1.250125 1.250125 0 0 0 4 22.25 L 20 22.25 C 22.119711 22.249236 23.701228 20.164033 23.128906 18.123047 A 1.250125 1.250125 0 0 0 23.128906 18.121094 L 20.603516 9.1601562 L 20.609375 9.1875 C 20.242885 7.7680902 18.956179 6.7621013 17.490234 6.75 A 1.250125 1.250125 0 0 0 17.480469 6.75 L 15.869141 6.75 C 16.113674 6.2152396 16.25 5.6223882 16.25 5 C 16.25 2.6675956 14.332404 0.75 12 0.75 z M 12 3.25 C 12.981304 3.25 13.75 4.0186959 13.75 5 C 13.75 5.9813041 12.981304 6.75 12 6.75 C 11.018696 6.75 10.25 5.9813041 10.25 5 C 10.25 4.0186959 11.018696 3.25 12 3.25 z M 6.5136719 9.25 L 12 9.25 L 17.46875 9.25 C 17.814504 9.25285 18.103024 9.477711 18.189453 9.8125 A 1.250125 1.250125 0 0 0 18.197266 9.8398438 L 20.722656 18.798828 L 20.720703 18.796875 C 20.863605 19.306317 20.529044 19.749809 20 19.75 L 4.0234375 19.75 C 3.5095426 19.740644 3.1819667 19.310137 3.3105469 18.8125 L 5.7988281 9.796875 L 5.8007812 9.796875 C 5.8927771 9.4714805 6.1753608 9.2535103 6.5136719 9.25 z " />
+</svg>
