@@ -4,6 +4,13 @@
 output: buttons.3mf
 build_plate: "Supertack Plate"
 
+# Packing distance between objects in mm (default: 10.0)
+packing_distance: 1.0
+
+# Packing algorithm - "default" or "compact" (default: "default")
+# Compact: places objects in both directions as compactly as possible to reduce travel time
+packing_algorithm: compact
+
 objects:
   - name: radio
     config:
