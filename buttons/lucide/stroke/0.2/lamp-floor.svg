@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   stroke="currentColor"
+   stroke-width="0.2"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname=".tmp_lamp-floor.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <path
+     id="path1"
+     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#000000;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 9 1.9003906 C 8.550592 1.9006751 8.1452459 2.1744617 7.9785156 2.5917969 L 5.9785156 7.5917969 C 5.6912462 8.3108473 6.2256894 9.0991194 7 9.0996094 L 17 9.0996094 C 17.774772 9.0998938 18.308925 8.3112756 18.021484 7.5917969 L 16.021484 2.5917969 C 15.854754 2.1744617 15.449408 1.9006751 15 1.9003906 L 9 1.9003906 z M 9 2.0996094 L 15 2.0996094 C 15.368246 2.0998425 15.699317 2.3240498 15.835938 2.6660156 L 17.835938 7.6660156 C 18.073419 8.2604442 17.640111 8.9006256 17 8.9003906 L 7 8.9003906 C 6.3602815 8.8999858 5.9267268 8.2600793 6.1640625 7.6660156 L 8.1640625 2.6660156 C 8.3006819 2.3240498 8.6317536 2.0998425 9 2.0996094 z M 11.986328 9.9003906 A 0.1 0.1 0 0 0 11.900391 10 L 11.900391 21.900391 L 9 21.900391 A 0.1 0.1 0 0 0 8.9003906 22 A 0.1 0.1 0 0 0 9 22.099609 L 11.986328 22.099609 L 12.013672 22.099609 L 15 22.099609 A 0.1 0.1 0 0 0 15.099609 22 A 0.1 0.1 0 0 0 15 21.900391 L 12.099609 21.900391 L 12.099609 10 A 0.1 0.1 0 0 0 12 9.9003906 A 0.1 0.1 0 0 0 11.986328 9.9003906 z " />
+</svg>

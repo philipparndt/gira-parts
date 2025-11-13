@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   stroke="currentColor"
+   stroke-width="0.2"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname=".tmp_lock-open.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <path
+     id="rect1"
+     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#000000;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 11.933594 1.8925781 C 11.78481 1.8954911 11.636298 1.9049707 11.488281 1.9199219 C 9.1200101 2.1591412 6.8973106 3.93526 6.9003906 7 L 6.9003906 10.900391 L 5 10.900391 C 3.8383297 10.900391 2.9003906 11.83833 2.9003906 13 L 2.9003906 20 C 2.9003906 21.16167 3.8383297 22.099609 5 22.099609 L 19 22.099609 C 20.16167 22.099609 21.099609 21.16167 21.099609 20 L 21.099609 13 C 21.099609 11.83833 20.16167 10.900391 19 10.900391 L 7.0996094 10.900391 L 7.0996094 7 C 7.096626 4.0314636 9.2247156 2.3497564 11.507812 2.1191406 C 13.790909 1.8885248 16.21201 3.1103626 16.802734 6.0195312 A 0.1 0.1 0 0 0 16.919922 6.0976562 A 0.1 0.1 0 0 0 16.998047 5.9804688 C 16.426291 3.1647361 14.165356 1.8488841 11.933594 1.8925781 z M 5 11.099609 L 6.9863281 11.099609 L 7.0136719 11.099609 L 19 11.099609 C 20.05433 11.099609 20.900391 11.94567 20.900391 13 L 20.900391 20 C 20.900391 21.05433 20.05433 21.900391 19 21.900391 L 5 21.900391 C 3.9456703 21.900391 3.0996094 21.05433 3.0996094 20 L 3.0996094 13 C 3.0996094 11.94567 3.9456703 11.099609 5 11.099609 z " />
+</svg>

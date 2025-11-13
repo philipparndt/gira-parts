@@ -16,7 +16,10 @@ objects:
     config:
       - button_icon_cfg.scad: |
           function top() = "./lucide/filled/1.5/play.svg";
+          function cutout_top() = "./lucide/stroke/0.5/play.svg";
+          
           function bottom() = "./lucide/stroke/1.5/square.svg";
+          function cutout_bottom() = false;
           function right() = false;
 
     parts:
@@ -53,7 +56,10 @@ objects:
     config:
       - button_icon_cfg.scad: |
           function top() = "./lucide/filled/1.5/tree-pine.svg";
+          function cutout_top() = "./lucide/stroke/0.5/tree-pine.svg";
+          
           function bottom() = "./lucide/stroke/1.5/tree-pine.svg";
+          function cutout_bottom() = false;
           function rotate() = false;
 
     parts:
@@ -103,3 +109,28 @@ objects:
       - name: button
         file: button.scad
         filament: 1
+
+# Example: Using cutout images to prevent color mixing
+# This creates a filled icon that reaches the surface, then cuts around it
+# in the first layer so colors don't mix
+# When a cutout is defined, the image depth is automatically 0.3mm, otherwise 0.2mm
+# The cutout depth is always 0.1mm
+#  - name: icon_with_cutout
+#    config:
+#      - button_icon_cfg.scad: |
+#          function top() = "./lucide/filled/1.5/heart.svg";
+#          function bottom() = "./lucide/filled/1.5/star.svg";
+#          function right() = false;
+#
+#          // Cutout images (e.g., stroke versions) subtracted from icons
+#          function cutout_top() = "./lucide/stroke/1.5/heart.svg";
+#          function cutout_bottom() = "./lucide/stroke/1.5/star.svg";
+#
+#    parts:
+#      - name: button
+#        file: image_button.scad
+#        filament: 1
+#
+#      - name: icons
+#        file: button_icons.scad
+#        filament: 2

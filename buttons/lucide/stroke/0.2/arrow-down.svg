@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   stroke="currentColor"
+   stroke-width="0.2"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   version="1.1"
+   id="svg2"
+   sodipodi:docname=".tmp_arrow-down.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <path
+     id="path1"
+     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#000000;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 11.986328 4.9003906 A 0.1 0.1 0 0 0 11.900391 5 L 11.900391 18.759766 L 5.0703125 11.929688 A 0.1 0.1 0 0 0 4.9296875 11.929688 A 0.1 0.1 0 0 0 4.9296875 12.070312 L 11.919922 19.058594 A 0.1 0.1 0 0 0 11.927734 19.068359 L 11.929688 19.070312 A 0.1 0.1 0 0 0 11.9375 19.078125 A 0.10001 0.10001 0 0 0 11.939453 19.078125 A 0.1 0.1 0 0 0 11.949219 19.085938 A 0.10001 0.10001 0 0 0 11.951172 19.085938 A 0.1 0.1 0 0 0 11.960938 19.091797 A 0.10001 0.10001 0 0 0 11.962891 19.091797 A 0.1 0.1 0 0 0 11.974609 19.095703 A 0.1 0.1 0 0 0 12 19.099609 A 0.1 0.1 0 0 0 12.025391 19.095703 A 0.10001 0.10001 0 0 0 12.060547 19.078125 A 0.1 0.1 0 0 0 12.080078 19.058594 L 19.070312 12.070312 A 0.1 0.1 0 0 0 19.070312 11.929688 A 0.1 0.1 0 0 0 18.929688 11.929688 L 12.099609 18.759766 L 12.099609 5 A 0.1 0.1 0 0 0 12 4.9003906 A 0.1 0.1 0 0 0 11.986328 4.9003906 z " />
+</svg>
