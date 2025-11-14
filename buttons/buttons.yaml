@@ -19,8 +19,8 @@ objects:
           function cutout_top() = "./lucide/stroke/0.5/play.svg";
           
           function bottom() = "./lucide/stroke/1.5/square.svg";
-          function cutout_bottom() = false;
           function right() = false;
+          function cutout_bottom() = false;
 
     parts:
       - name: button
@@ -59,8 +59,8 @@ objects:
           function cutout_top() = "./lucide/stroke/0.5/tree-pine.svg";
           
           function bottom() = "./lucide/stroke/1.5/tree-pine.svg";
-          function cutout_bottom() = false;
           function rotate() = false;
+          function cutout_bottom() = false;
 
     parts:
       - name: button
@@ -75,7 +75,9 @@ objects:
     config:
       - button_icon_cfg.scad: |
           function top() = "./lucide/stroke/1.5/arrow-up.svg";
+          function cutout_top() = false;
           function bottom() = "./lucide/stroke/1.5/panel-top-bottom-dashed.svg";
+          function cutout_bottom() = false;
           function right() = false;
 
     parts:

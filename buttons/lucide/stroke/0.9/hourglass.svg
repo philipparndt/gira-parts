@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   stroke="currentColor"
+   stroke-width="0.9"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname=".tmp_hourglass.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <path
+     id="path1"
+     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#000000;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 5 1.5507812 A 0.44999999 0.44999999 0 0 0 4.5507812 2 A 0.44999999 0.44999999 0 0 0 5 2.4492188 L 6.5507812 2.4492188 L 6.5507812 6.171875 C 6.55092 6.8214295 6.8082044 7.4450619 7.2675781 7.9042969 L 11.363281 12 L 7.2675781 16.095703 C 6.8082044 16.554938 6.55092 17.178571 6.5507812 17.828125 L 6.5507812 21.550781 L 5 21.550781 A 0.44999999 0.44999999 0 0 0 4.5507812 22 A 0.44999999 0.44999999 0 0 0 5 22.449219 L 19 22.449219 A 0.44999999 0.44999999 0 0 0 19.449219 22 A 0.44999999 0.44999999 0 0 0 19 21.550781 L 17.449219 21.550781 L 17.449219 17.828125 C 17.44908 17.178571 17.191796 16.554938 16.732422 16.095703 L 12.636719 12 L 16.732422 7.9042969 C 17.191796 7.4450619 17.44908 6.8214295 17.449219 6.171875 L 17.449219 2.4492188 L 19 2.4492188 A 0.44999999 0.44999999 0 0 0 19.449219 2 A 0.44999999 0.44999999 0 0 0 19 1.5507812 L 17 1.5507812 L 7 1.5507812 L 5 1.5507812 z M 7.4492188 2.4492188 L 16.550781 2.4492188 L 16.550781 6.171875 C 16.550693 6.5830998 16.386527 6.9768422 16.095703 7.2675781 L 12 11.363281 L 7.9042969 7.2675781 C 7.6134731 6.9768422 7.4493067 6.5830998 7.4492188 6.171875 L 7.4492188 2.4492188 z M 12 12.636719 L 16.095703 16.732422 C 16.386527 17.023158 16.550693 17.4169 16.550781 17.828125 L 16.550781 21.550781 L 7.4492188 21.550781 L 7.4492188 17.828125 C 7.4493066 17.4169 7.6134731 17.023158 7.9042969 16.732422 L 12 12.636719 z " />
+</svg>
