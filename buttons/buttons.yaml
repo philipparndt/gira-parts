@@ -31,9 +31,9 @@ objects:
 #  - name: radio_color
 #    config:
 #      - button_icon_cfg.scad:
-#          function top: "./lucide/filled/1.5/play.svg"
-#          function bottom: "./lucide/stroke/1.5/square.svg"
-#          function right: true
+#          top: "./lucide/filled/1.5/play.svg"
+#          bottom: "./lucide/stroke/1.5/square.svg"
+#          right: true
 #
 #    parts:
 #      - name: button
