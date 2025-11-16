@@ -1,4 +1,3 @@
-function top() = "./lucide/stroke/0.9/utensils.svg";
-function cutout_top() = false;
+function top() = "./lucide/stroke/1.5/utensils.svg";
 function bottom() = "";
 function right() = false;
