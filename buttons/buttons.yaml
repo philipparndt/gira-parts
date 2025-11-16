@@ -14,10 +14,10 @@ packing_algorithm: compact
 objects:
   - name: radio
     config:
-      - button_icon_cfg.scad: |
-          function get_top() = "./lucide/filled/1.5/play.svg";
-          function get_bottom() = "./lucide/stroke/1.5/square.svg";
-          function get_right() = false;
+      - button_icon_cfg.scad:
+          top: "./lucide/filled/1.5/play.svg"
+          bottom: "./lucide/stroke/1.5/square.svg"
+          right: false
 
     parts:
       - name: button
@@ -30,10 +30,10 @@ objects:
 
 #  - name: radio_color
 #    config:
-#      - button_icon_cfg.scad: |
-#          function top() = "./lucide/filled/1.5/play.svg";
-#          function bottom() = "./lucide/stroke/1.5/square.svg";
-#          function right() = true;
+#      - button_icon_cfg.scad:
+#          function top: "./lucide/filled/1.5/play.svg"
+#          function bottom: "./lucide/stroke/1.5/square.svg"
+#          function right: true
 #
 #    parts:
 #      - name: button
@@ -51,10 +51,10 @@ objects:
 
   - name: tree
     config:
-      - button_icon_cfg.scad: |
-          function get_top() = "./lucide/filled/1.5/tree-pine.svg";
-          function get_bottom() = "./lucide/stroke/1.5/tree-pine.svg";
-          function get_rotate() = false;
+      - button_icon_cfg.scad:
+          top: "./lucide/filled/1.5/tree-pine.svg"
+          bottom: "./lucide/stroke/1.5/tree-pine.svg"
+          rotate: false
 
     parts:
       - name: button
@@ -67,10 +67,10 @@ objects:
 
   - name: blinds
     config:
-      - button_icon_cfg.scad: |
-          function get_top() = "./lucide/stroke/1.5/arrow-up.svg";
-          function get_bottom() = "./lucide/stroke/1.5/panel-top-bottom-dashed.svg";
-          function get_right() = false;
+      - button_icon_cfg.scad:
+          top: "./lucide/stroke/1.5/arrow-up.svg"
+          bottom: "./lucide/stroke/1.5/panel-top-bottom-dashed.svg"
+          right: false
 
     parts:
       - name: button
@@ -84,10 +84,10 @@ objects:
 
   - name: dinner
     config:
-      - button_icon_cfg.scad: |
-          function get_top() = "./lucide/stroke/1.5/utensils.svg";
-          function get_bottom() = "";
-          function get_right() = false;
+      - button_icon_cfg.scad:
+          top: "./lucide/stroke/1.5/utensils.svg"
+          bottom: ""
+          right: false
 
     parts:
       - name: button
@@ -111,14 +111,14 @@ objects:
 # The cutout depth is always 0.1mm
 #  - name: icon_with_cutout
 #    config:
-#      - button_icon_cfg.scad: |
-#          function top() = "./lucide/filled/1.5/heart.svg";
-#          function bottom() = "./lucide/filled/1.5/star.svg";
-#          function right() = false;
+#      - button_icon_cfg.scad:
+#          function top: "./lucide/filled/1.5/heart.svg"
+#          function bottom: "./lucide/filled/1.5/star.svg"
+#          function right: false
 #
 #          // Cutout images (e.g., stroke versions) subtracted from icons
-#          function cutout_top() = "./lucide/stroke/1.5/heart.svg";
-#          function cutout_bottom() = "./lucide/stroke/1.5/star.svg";
+#          function cutout_top: "./lucide/stroke/1.5/heart.svg"
+#          function cutout_bottom: "./lucide/stroke/1.5/star.svg"
 #
 #    parts:
 #      - name: button
