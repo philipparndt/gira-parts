@@ -15,12 +15,9 @@ objects:
   - name: radio
     config:
       - button_icon_cfg.scad: |
-          function top() = "./lucide/filled/1.5/play.svg";
-          function cutout_top() = "./lucide/stroke/0.5/play.svg";
-          
-          function bottom() = "./lucide/stroke/1.5/square.svg";
-          function right() = false;
-          function cutout_bottom() = false;
+          function get_top() = "./lucide/filled/1.5/play.svg";
+          function get_bottom() = "./lucide/stroke/1.5/square.svg";
+          function get_right() = false;
 
     parts:
       - name: button
@@ -55,12 +52,9 @@ objects:
   - name: tree
     config:
       - button_icon_cfg.scad: |
-          function top() = "./lucide/filled/1.5/tree-pine.svg";
-          function cutout_top() = "./lucide/stroke/0.5/tree-pine.svg";
-          
-          function bottom() = "./lucide/stroke/1.5/tree-pine.svg";
-          function rotate() = false;
-          function cutout_bottom() = false;
+          function get_top() = "./lucide/filled/1.5/tree-pine.svg";
+          function get_bottom() = "./lucide/stroke/1.5/tree-pine.svg";
+          function get_rotate() = false;
 
     parts:
       - name: button
@@ -74,11 +68,9 @@ objects:
   - name: blinds
     config:
       - button_icon_cfg.scad: |
-          function top() = "./lucide/stroke/1.5/arrow-up.svg";
-          function cutout_top() = false;
-          function bottom() = "./lucide/stroke/1.5/panel-top-bottom-dashed.svg";
-          function cutout_bottom() = false;
-          function right() = false;
+          function get_top() = "./lucide/stroke/1.5/arrow-up.svg";
+          function get_bottom() = "./lucide/stroke/1.5/panel-top-bottom-dashed.svg";
+          function get_right() = false;
 
     parts:
       - name: button
@@ -93,9 +85,9 @@ objects:
   - name: dinner
     config:
       - button_icon_cfg.scad: |
-          function top() = "./lucide/stroke/1.5/utensils.svg";
-          function bottom() = "";
-          function right() = false;
+          function get_top() = "./lucide/stroke/1.5/utensils.svg";
+          function get_bottom() = "";
+          function get_right() = false;
 
     parts:
       - name: button

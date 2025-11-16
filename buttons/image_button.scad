@@ -18,14 +18,14 @@ difference() {
             mirror([0,1,0])
                 rotate([0, 0, 90])
                     scale([.8, .8, 1])
-                        import(top());
+                        import(get_top());
 
     translate([28-6, 16.5, 0])
         linear_extrude(height = .3)
             mirror([0,1,0])
                 rotate([0, 0, 90])
                     scale([.8, .8, 1])
-                        import(bottom());
+                        import(get_bottom());
 
 }
 
