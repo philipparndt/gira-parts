@@ -45,7 +45,7 @@
     "fuse.js": "^6.5.3",
     "jszip": "^3.7.0",
     "lodash": "^4.17.20",
-    "lodash-es": "^4.17.21",
+    "lodash-es": "^4.17.23",
     "lucide-react": "workspace:*",
     "lucide-vue-next": "workspace:*",
     "react": "^18.2.0",
